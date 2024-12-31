@@ -1,0 +1,1001 @@
+CustomerKey,Gender,Name,City,State_Code,State,Zip_Code,Country,Continent,Birthday
+28690,Male,Leo Walcott,MILLCHESTER,QLD,Queensland,4820,Australia,Australia,1987-09-12
+28702,Female,Charli Lhotsky,DREWVALE,QLD,Queensland,4116,Australia,Australia,1966-06-30
+29041,Male,Logan Barling,LINDENOW,VIC,Victoria,3865,Australia,Australia,1937-11-14
+29278,Male,Justin Hartog,PINEVALE,QLD,Queensland,4754,Australia,Australia,1990-09-04
+29303,Male,Max Cohn,KIRTON POINT,SA,South Australia,5606,Australia,Australia,1983-05-01
+29320,Male,Levi Barraclough,BLACKBUTT,NSW,New South Wales,2529,Australia,Australia,1938-10-14
+29475,Female,Madison Pocock,TUROSS,NSW,New South Wales,2630,Australia,Australia,1965-07-03
+29555,Male,Owen Edouard,GLEN MARTIN,NSW,New South Wales,2321,Australia,Australia,1992-07-03
+29593,Male,Liam Nettleton,BAKARA,SA,South Australia,5354,Australia,Australia,1995-08-18
+29647,Female,Jessica Maynard,BRENDA,NSW,New South Wales,2831,Australia,Australia,1956-05-28
+29689,Female,Alexis Phillipps,BURWOOD HEIGHTS,NSW,New South Wales,2136,Australia,Australia,1966-08-28
+29812,Male,Marcus Napier,ST KILDA ROAD CENTRAL,VIC,Victoria,3004,Australia,Australia,1966-11-19
+29837,Female,Rebecca Jaques,MOUNT GEORGE,NSW,New South Wales,2424,Australia,Australia,1938-08-14
+29973,Female,Lauren Langton,DUCKINWILLA,QLD,Queensland,4650,Australia,Australia,1937-09-24
+30090,Male,George Farrer,PARK AVENUE,QLD,Queensland,4701,Australia,Australia,1960-10-07
+30278,Female,Madeleine Kiddle,JACANA,VIC,Victoria,3047,Australia,Australia,1945-09-12
+30428,Female,Sienna Conrick,EARLSTON,VIC,Victoria,3669,Australia,Australia,1999-12-01
+31086,Female,Kate Snowden,WITTENOOM,WA,Western Australia,6751,Australia,Australia,1985-01-30
+31164,Male,Hunter Boehm,BOWES,WA,Western Australia,6535,Australia,Australia,1948-06-15
+31236,Female,Abby Warburton,THREE BRIDGES,VIC,Victoria,3797,Australia,Australia,1959-08-08
+31288,Male,Adam Banning,CLAY WELLS,SA,South Australia,5280,Australia,Australia,1988-08-28
+31374,Female,Ellie Griffin,ST AGNES,SA,South Australia,5097,Australia,Australia,1960-12-02
+31721,Female,Alyssa Isaacs,GULFVIEW HEIGHTS,SA,South Australia,5096,Australia,Australia,1961-01-19
+31784,Male,Zac Scherk,WAMBAN,NSW,New South Wales,2537,Australia,Australia,1968-01-02
+32037,Male,Aaron Knopwood,LAKE MOKOAN,VIC,Victoria,3673,Australia,Australia,1989-02-14
+32190,Female,Paige Lacey,DELAMERE,SA,South Australia,5204,Australia,Australia,1954-10-28
+32259,Female,Ashley Dane?,SEVENHILL,SA,South Australia,5453,Australia,Australia,1975-11-21
+32294,Male,Kai Nepean,RITE ISLAND,QLD,Queensland,4807,Australia,Australia,1948-08-04
+32455,Female,Charlotte Crane,MOSQUITO CREEK,QLD,Queensland,4387,Australia,Australia,1997-05-09
+32488,Male,Max Wylie,STAFFORD DC,QLD,Queensland,4053,Australia,Australia,1954-03-15
+32511,Male,Jasper Glassop,Woodford,NSW,New South Wales,2463,Australia,Australia,1964-02-29
+32538,Female,Eva Hazon,BOOMOODEERIE,NSW,New South Wales,2469,Australia,Australia,1986-07-20
+32939,Female,Alica Sizer,WONGULLA,SA,South Australia,5238,Australia,Australia,1951-06-09
+33036,Male,Tyler Galvin,BYNG,NSW,New South Wales,2798,Australia,Australia,1959-07-31
+33205,Male,Andrew Hollway,CRYSTAL BROOK,QLD,Queensland,4800,Australia,Australia,1943-01-10
+33444,Male,Brodie Thirkell,CLAYTON,VIC,Victoria,3168,Australia,Australia,1968-01-09
+34081,Female,Imogen Permewan,FYANS CREEK,VIC,Victoria,3381,Australia,Australia,1939-05-08
+34126,Female,Victoria Tasman,MENINGIE EAST,SA,South Australia,5264,Australia,Australia,1967-09-07
+34143,Male,John Gowlland,WARRANWOOD,VIC,Victoria,3134,Australia,Australia,1991-04-07
+34431,Male,Leo Badger,BEACONSFIELD,WA,Western Australia,6162,Australia,Australia,1940-02-02
+34451,Male,Harry Edwin,GLADSTONE,NSW,New South Wales,2440,Australia,Australia,1972-11-01
+34462,Male,Tyson Tishler,TALAROO,QLD,Queensland,4871,Australia,Australia,1938-07-09
+34850,Female,Caitlin O'Loghlin,BLUE VALE,NSW,New South Wales,2380,Australia,Australia,1960-11-30
+34915,Female,Kate Byles,MOUNT CRYSTAL,NSW,New South Wales,2665,Australia,Australia,1969-01-28
+35257,Female,Ella Oxenham,FERNHILL,NSW,New South Wales,2519,Australia,Australia,1970-02-20
+35479,Male,Jeremy Petre,COSSACK,WA,Western Australia,6720,Australia,Australia,1978-06-08
+35703,Male,Rory Cotton,LUGARNO,NSW,New South Wales,2210,Australia,Australia,1961-12-14
+113032,Male,Jesse Manifold,HOPETOUN,VIC,Victoria,3396,Australia,Australia,1989-09-09
+113121,Female,Maddison Seekamp,BUSHLEY,QLD,Queensland,4702,Australia,Australia,1964-08-11
+113244,Female,Paige Harrington,TAPPING,WA,Western Australia,6065,Australia,Australia,2001-08-29
+113290,Female,Piper Lambie,GRANITE ROCK,VIC,Victoria,3875,Australia,Australia,1957-07-15
+113294,Male,Sean Dannevig,WOLLEMI,NSW,New South Wales,2330,Australia,Australia,1981-12-14
+113334,Female,Bianca Foelsche,BOORABEE PARK,NSW,New South Wales,2480,Australia,Australia,1958-11-27
+113448,Female,Lily Grimshaw,TOORAK,VIC,Victoria,3142,Australia,Australia,1936-10-28
+113481,Male,Zane Szabados,KUDARDUP,WA,Western Australia,6290,Australia,Australia,1946-10-13
+113531,Female,Kate Shoebridge,MUJA,WA,Western Australia,6225,Australia,Australia,1997-07-19
+113635,Female,Zara Annear,BIDWILL,NSW,New South Wales,2770,Australia,Australia,1987-08-29
+113833,Male,Oliver Fiaschi,Collinsville,QLD,Queensland,4804,Australia,Australia,1939-03-02
+114070,Male,Henry Childe,CASTLE DOYLE,NSW,New South Wales,2350,Australia,Australia,1991-01-02
+114201,Male,Finn Donnelly,WARRENMANG,VIC,Victoria,3478,Australia,Australia,1972-07-30
+114551,Male,Ashton Angas,THE HEAD,QLD,Queensland,4373,Australia,Australia,1999-12-31
+114561,Female,Isabelle Pollard,LEIGH CREEK,VIC,Victoria,3352,Australia,Australia,1966-03-22
+114709,Female,Emma Nixon-Smith,ELLIS BEACH,QLD,Queensland,4879,Australia,Australia,1955-02-01
+114916,Female,Sara Drysdale,WEST BUSSELTON,WA,Western Australia,6280,Australia,Australia,1958-02-22
+114949,Male,Spencer Gosling,TABLE CAPE,TAS,Tasmania,7325,Australia,Australia,1969-07-17
+115168,Female,Alicia Chute,DINGO FOREST,NSW,New South Wales,2429,Australia,Australia,1971-03-12
+115335,Male,Austin McAlpine,BIRDWOODTON,VIC,Victoria,3505,Australia,Australia,1959-05-30
+115447,Male,Levi Windich,PELTON,NSW,New South Wales,2325,Australia,Australia,1994-10-12
+115452,Male,Dean Richards,FAR MEADOW,NSW,New South Wales,2535,Australia,Australia,1978-07-30
+115505,Female,Eva Stansfield,DONDINGALONG,NSW,New South Wales,2440,Australia,Australia,1943-08-04
+115688,Male,David Steffanoni,YANDARAN,QLD,Queensland,4673,Australia,Australia,2001-07-25
+115869,Female,Jessica Drysdale,STOCKRINGTON,NSW,New South Wales,2322,Australia,Australia,1974-10-25
+115895,Male,Sebastian Liversidge,UPPER ROUCHEL,NSW,New South Wales,2336,Australia,Australia,1988-04-11
+115902,Male,Connor McLaren,CINNABAR,QLD,Queensland,4600,Australia,Australia,1958-12-01
+116149,Female,Claire Denton,LOCKWOOD,VIC,Victoria,3551,Australia,Australia,1964-02-20
+116294,Male,Hunter Andrew,TURKEY BEACH,QLD,Queensland,4678,Australia,Australia,1990-04-16
+116383,Male,Callum Grey-Smith,YAHL,SA,South Australia,5291,Australia,Australia,1971-08-25
+116408,Female,Georgia McCourt,NORTH BOYANUP,WA,Western Australia,6237,Australia,Australia,1977-09-02
+116524,Female,Alyssa McGirr,THE HILL,NSW,New South Wales,2300,Australia,Australia,1961-08-22
+116571,Male,Mitchell Scarf,KIRKSTALL,VIC,Victoria,3283,Australia,Australia,1993-02-19
+116824,Female,Ella Mort,WATTLE GROVE,TAS,Tasmania,7109,Australia,Australia,1962-08-02
+117048,Female,Chloe Martyn,LOGAN CITY BC,QLD,Queensland,4114,Australia,Australia,1977-10-12
+117386,Male,Christopher Currie,WAMBERAL,NSW,New South Wales,2260,Australia,Australia,1943-10-25
+117496,Female,Lilian Ramsden,PAPPINBARRA,NSW,New South Wales,2446,Australia,Australia,1965-05-30
+117769,Male,Julian Padbury,COES CREEK,QLD,Queensland,4560,Australia,Australia,1958-12-28
+117995,Male,Julian Daintree,SOUTH GUNDAGAI,NSW,New South Wales,2722,Australia,Australia,1984-07-22
+118084,Male,Kai Weekes,TONIMBUK,VIC,Victoria,3815,Australia,Australia,1946-06-06
+118229,Female,Poppy Airey,UPPER MACDONALD,NSW,New South Wales,2775,Australia,Australia,1979-02-08
+118271,Female,Abigail Reymond,ILUKA,NSW,New South Wales,2466,Australia,Australia,1956-08-09
+118428,Male,Christian Lakeland,DUNWICH,QLD,Queensland,4183,Australia,Australia,1971-11-27
+118451,Male,Oscar Tulaba,GRIFFITH EAST,NSW,New South Wales,2680,Australia,Australia,1952-03-07
+118540,Male,Zac Rodius,PINNACLES,QLD,Queensland,4815,Australia,Australia,1988-03-28
+118829,Male,Max Hutt,TELLEBANG,QLD,Queensland,4630,Australia,Australia,1968-04-29
+118902,Female,Eve Mulvany,PATYAH,VIC,Victoria,3318,Australia,Australia,1986-11-23
+186385,Male,Nathan Wallen,TUMBARUMBA,NSW,New South Wales,2653,Australia,Australia,1974-01-30
+186467,Male,David Carter,DELAMERE,SA,South Australia,5204,Australia,Australia,1999-01-05
+186547,Female,Rachel Latham,EUNGELLA HINTERLAND,QLD,Queensland,4741,Australia,Australia,1982-09-19
+186576,Female,Erin Mackersey,BLAIRMORE,QLD,Queensland,4625,Australia,Australia,1991-05-28
+186798,Female,Sophie Chaffey,TIBERIAS,TAS,Tasmania,7120,Australia,Australia,1953-12-13
+186894,Female,Stella Brookfield,NERRING,VIC,Victoria,3373,Australia,Australia,1948-02-09
+186985,Male,Dean Backhouse,EAST FREMANTLE,WA,Western Australia,6158,Australia,Australia,1988-02-07
+187048,Female,Lucinda Glynn,CASSOWARY,QLD,Queensland,4873,Australia,Australia,1945-05-22
+187209,Female,Hayley Bethune,Seaford,SA,South Australia,5169,Australia,Australia,1950-09-23
+187301,Male,Jai Hollick,CALIFAT,NSW,New South Wales,2729,Australia,Australia,1996-03-27
+187349,Female,Mariam Trollope,CADIA,NSW,New South Wales,2800,Australia,Australia,1987-09-28
+187354,Female,Ava Flockhart,Chelsea,VIC,Victoria,3196,Australia,Australia,1947-01-18
+187544,Female,Ebony Fizelle,Lost River,NSW,New South Wales,2583,Australia,Australia,1969-06-15
+187569,Male,Rory Leibius,CARSELDINE,QLD,Queensland,4034,Australia,Australia,1976-11-09
+187653,Female,Makayla Hassall,MUSCLE CREEK,NSW,New South Wales,2333,Australia,Australia,1973-12-25
+187750,Female,Amelie Roth,CHAIN VALLEY BAY,NSW,New South Wales,2259,Australia,Australia,1973-05-21
+187840,Female,Leah Onians,BOAT HARBOUR,NSW,New South Wales,2480,Australia,Australia,1967-02-20
+188311,Male,Angus Larra,TUMUT PLAINS,NSW,New South Wales,2720,Australia,Australia,1963-09-05
+188404,Female,Piper Whinham,TEWKESBURY,TAS,Tasmania,7321,Australia,Australia,1959-01-14
+188670,Male,Dominic Finn,KADNOOK,VIC,Victoria,3318,Australia,Australia,1987-06-15
+188712,Female,Brianna McClelland,BODALLA,NSW,New South Wales,2545,Australia,Australia,1962-04-07
+189058,Female,Claudia Horder,BIGGS FLAT,SA,South Australia,5153,Australia,Australia,1987-12-01
+189113,Female,Ava Colebe,HOWQUA,VIC,Victoria,3723,Australia,Australia,1979-11-27
+189271,Male,Finn Braund,ROSEVEARS,TAS,Tasmania,7277,Australia,Australia,1988-01-14
+189414,Female,Charlotte Todd,DILSTON,TAS,Tasmania,7252,Australia,Australia,1983-08-08
+189459,Female,Alexandra Grainger,WULGULMERANG EAST,VIC,Victoria,3885,Australia,Australia,1948-08-22
+190347,Female,Matilda Brodney,ORA BANDA,WA,Western Australia,6431,Australia,Australia,1963-05-21
+190744,Male,Thomas Seekamp,HAWSON,SA,South Australia,5607,Australia,Australia,1990-08-08
+190747,Female,Alana Van Raalte,LACKRANA,TAS,Tasmania,7255,Australia,Australia,1959-07-30
+190882,Female,Kate Berrick,GASCOYNE RIVER,WA,Western Australia,6705,Australia,Australia,1940-01-20
+190919,Male,Finn Partridge,SUNRISE BEACH,QLD,Queensland,4567,Australia,Australia,1978-02-02
+190944,Female,Sofia Thornton,LARPENT,VIC,Victoria,3249,Australia,Australia,1951-10-12
+191211,Female,Dakota Goldhar,PONTYPOOL,TAS,Tasmania,7190,Australia,Australia,1981-11-04
+191655,Male,Nicholas Leach,ERIN VALE,NSW,New South Wales,2663,Australia,Australia,1960-10-23
+191711,Male,Sean Strzelecki,GEEVESTON,TAS,Tasmania,7116,Australia,Australia,1967-04-16
+191936,Female,Savannah Dove,SUNNYCLIFFS,VIC,Victoria,3496,Australia,Australia,1959-08-04
+191938,Female,Phoebe Hogarth,MACGILLIVRAY,SA,South Australia,5223,Australia,Australia,1989-12-23
+191968,Female,Phoebe Sandes,WEPAR,SA,South Australia,5278,Australia,Australia,1972-09-03
+192139,Male,Harry Barnes,HENTY,VIC,Victoria,3312,Australia,Australia,1990-06-27
+192200,Male,Kai Rennie,GOOLWA SOUTH,SA,South Australia,5214,Australia,Australia,1972-12-04
+192287,Female,Rebecca Mairinger,ELINGAMITE NORTH,VIC,Victoria,3266,Australia,Australia,2001-07-09
+192425,Male,Michael Casey,WIDGELLI,NSW,New South Wales,2680,Australia,Australia,1958-09-12
+192428,Male,Elijah Abel,INNALOO,WA,Western Australia,6018,Australia,Australia,1962-08-08
+192436,Female,Tahlia Patten,BALLAROO,QLD,Queensland,4455,Australia,Australia,1970-11-04
+192466,Female,Keira Bloodsworth,MACQUARIE HEADS,TAS,Tasmania,7468,Australia,Australia,1957-04-26
+192735,Female,Claudia Prentice,ROCKY GULLY,SA,South Australia,5253,Australia,Australia,1959-12-20
+193216,Male,Hamish Bettington,ALBERTA,QLD,Queensland,4702,Australia,Australia,1998-11-05
+242920,Male,Stephen Powell,New Westminster,BC,British Columbia,V3L 5H1,Canada,North America,1937-05-03
+242985,Female,Donna Shannon,Rosetown,SK,Saskatchewan,S0L 2V0,Canada,North America,1992-07-14
+243036,Female,Denese McDaniel,Toronto,ON,Ontario,M5H 1P6,Canada,North America,1947-08-29
+243073,Female,Kathy Allen,Calgary,AB,Alberta,T2P 0W4,Canada,North America,1974-02-05
+243170,Female,Susan Dee,St Hyacinthe,QC,Quebec,J2S 2T3,Canada,North America,1948-03-23
+243209,Female,Molly Clark,Courtenay,BC,British Columbia,V9N 2J6,Canada,North America,1949-04-17
+243332,Male,Cory Potter,Mulhurst Bay,AB,Alberta,T0C 2C0,Canada,North America,1962-06-06
+243341,Female,Cecile Herman,Ottawa,ON,Ontario,K1Z 7B5,Canada,North America,1981-10-19
+243543,Female,Marta Ramm,Richmond,BC,British Columbia,V6X 2B8,Canada,North America,1974-06-03
+243747,Male,Bill Caldwell,St Catharines,ON,Ontario,L2S 2K4,Canada,North America,1961-08-06
+243799,Male,Troy Brandon,Winnipeg,MB,Manitoba,R3C 4L5,Canada,North America,1975-05-28
+243807,Male,Troy Hobbs,Toronto,ON,Ontario,M2J 3T7,Canada,North America,1995-09-29
+243917,Female,Summer Brown,Toronto,ON,Ontario,M5T 1T4,Canada,North America,1983-02-07
+244065,Female,Dawn Stanfill,Toronto,ON,Ontario,M5J 2R8,Canada,North America,1981-05-15
+244179,Male,Peter Hummel,Calgary,AB,Alberta,T2A 1C8,Canada,North America,1985-12-12
+244193,Male,Daniel Lippert,Etobicoke,ON,Ontario,M9W 1K7,Canada,North America,1959-03-15
+244320,Male,Douglas Richards,Lansdowne House,ON,Ontario,P0T 1Z0,Canada,North America,1977-06-30
+244323,Male,Freddie Gorney,Toronto,ON,Ontario,M5J 2R8,Canada,North America,1985-01-27
+244354,Female,Esther Smith,South Slocan,BC,British Columbia,V0G 2G0,Canada,North America,1962-02-12
+244462,Female,Shanon Watson,Vancouver,BC,British Columbia,V6C 1B4,Canada,North America,1952-11-23
+244465,Male,Raymond Calderon,Bjorkdale,SK,Saskatchewan,S0E 0E0,Canada,North America,1975-05-22
+244545,Female,Joan Bedard,Vancouver,BC,British Columbia,V6B 3K9,Canada,North America,1993-02-14
+244601,Female,Brittany Borders,Newmarket,ON,Ontario,L3Y 2A3,Canada,North America,1959-09-09
+244737,Female,Barbara Maciejewski,Vancouver,BC,British Columbia,V6B 3K9,Canada,North America,1974-07-06
+244792,Male,Myron Holman,Malton,ON,Ontario,L4T 1A9,Canada,North America,1981-02-14
+244921,Male,Benjamin Weaver,London,ON,Ontario,N5W 2S9,Canada,North America,1938-07-12
+244931,Male,Horacio Saavedra,Carmacks,YT,Yukon,Y0B 1C0,Canada,North America,1943-04-12
+244936,Female,Carolee Miller,Toronto,ON,Ontario,M3B 2W6,Canada,North America,1940-12-06
+245017,Female,Maria Aultman,Chelsea,QC,Quebec,J0X 1N0,Canada,North America,1990-02-14
+245143,Female,Gladys Kilpatrick,Quebec,QC,Quebec,G1E 2L3,Canada,North America,1974-08-15
+245372,Female,Janet Greer,Brockville,ON,Ontario,K6V 4X4,Canada,North America,1937-02-11
+245649,Male,Daniel Horton,Hughenden,AB,Alberta,T0B 2E0,Canada,North America,1964-04-27
+245739,Male,Franklyn Edmonson,Montreal,QC,Quebec,H3B 4W8,Canada,North America,1945-01-26
+245808,Male,Mark Macias,Stittsville,ON,Ontario,K2S 1B9,Canada,North America,1940-04-20
+245912,Female,Evelyn Lavender,Calgary,AB,Alberta,T2P 0W4,Canada,North America,1959-11-29
+245936,Male,Shane Becker,St Charles,ON,Ontario,P0M 2W0,Canada,North America,1993-07-14
+246420,Male,Willie Sanchez,Richmond,BC,British Columbia,V6X 2B8,Canada,North America,1965-03-22
+246656,Male,Christopher White,Edmonton,AB,Alberta,T5J 3N6,Canada,North America,1962-06-24
+246888,Male,Joseph Bryant,Kirkland Lake,ON,Ontario,P2N 2G8,Canada,North America,1971-03-29
+247032,Male,Jason Welch,Francois Lake,BC,British Columbia,V0J 1E0,Canada,North America,1967-12-19
+247129,Male,Edward Sims,Calgary,AB,Alberta,T2P 1M6,Canada,North America,1998-03-08
+247132,Female,Joyce Davis,Ottawa,ON,Ontario,K1H 7Z1,Canada,North America,1963-04-10
+247171,Female,Candis Manning,Vancouver,BC,British Columbia,V6B 3K9,Canada,North America,1998-03-11
+247443,Male,Dennis Perryman,Wha Ti,NT,Northwest Territories,X0E 1P0,Canada,North America,1966-01-31
+247706,Male,Michael Hopkins,Highgate,ON,Ontario,N0P 1T0,Canada,North America,1996-01-07
+247866,Male,Michael Faught,Edmonton,AB,Alberta,T6H 1J5,Canada,North America,1987-12-26
+247966,Female,Mary Howze,Montreal,QC,Quebec,H2X 1Y8,Canada,North America,1960-08-29
+247971,Female,Rose Cox,Ottawa,ON,Ontario,K1Z 7B5,Canada,North America,2000-01-01
+317894,Male,Ryan Zavala,Balmertown,ON,Ontario,P0V 1C0,Canada,North America,1991-05-28
+317971,Male,Roy Klar,Barrie,ON,Ontario,L4M 3B1,Canada,North America,1940-03-29
+318016,Male,Anthony Warrick,Ottawa,ON,Ontario,K1Z 7B5,Canada,North America,1975-01-03
+318058,Female,Nicole Weber,Lethbridge,AB,Alberta,T1J 2J7,Canada,North America,1964-10-01
+318123,Male,Ronald Cleghorn,Edmonton,AB,Alberta,T5J 2R4,Canada,North America,1999-06-16
+318856,Male,Jeffery Carter,Wyoming,ON,Ontario,N0N 1T0,Canada,North America,1976-09-25
+318893,Female,Kelli Roberts,Kaslo,BC,British Columbia,V0G 1K0,Canada,North America,1962-07-09
+318902,Female,Thelma Pendergraft,Toronto,ON,Ontario,M3J 2J1,Canada,North America,1961-09-29
+318935,Male,Marc Jessee,Alexandra,PE,Prince Edward Island,C1B 0P3,Canada,North America,1977-06-24
+318980,Female,Carmel Perez,Calgary,AB,Alberta,T2V 2W2,Canada,North America,1960-09-22
+319137,Female,Joan Santana,Toronto,ON,Ontario,M4P 1A6,Canada,North America,1993-06-27
+319202,Female,Laura Diaz,Calgary,AB,Alberta,T2V 2W2,Canada,North America,1938-03-29
+319477,Female,Victoria Coffey,White River,ON,Ontario,P0M 3G0,Canada,North America,1944-07-16
+319579,Female,Cheryl McBride,Vegreville,AB,Alberta,T0B 4L0,Canada,North America,1966-11-15
+319689,Female,Mary Paschke,Vancouver,BC,British Columbia,V6B 3K9,Canada,North America,1972-01-07
+319845,Female,Terri Wheeler,Kamloops,BC,British Columbia,V2B 3J5,Canada,North America,1981-07-11
+320030,Female,Sandra Seymore,Thessalon,ON,Ontario,P0R 1L0,Canada,North America,1966-06-05
+320073,Male,Jose Pigg,Quebec,QC,Quebec,G1E 2L3,Canada,North America,1983-06-11
+320314,Male,Bill Stack,Vancouver,BC,British Columbia,V6B 3K9,Canada,North America,1946-11-12
+320342,Female,Thresa Marx,Repulse Bay,NU,Nunavut,X0C 0H0,Canada,North America,1978-04-12
+320355,Male,Steve Corral,Toronto,ON,Ontario,M4W 1J7,Canada,North America,1958-05-04
+320652,Female,Lisa Jimenez,Toronto,ON,Ontario,M4E 2V5,Canada,North America,1992-03-31
+320854,Female,Janie Berry,Calgary,AB,Alberta,T2P 0W4,Canada,North America,1946-03-06
+320919,Female,Pamela Garvey,Surrey,BC,British Columbia,V3T 4Y5,Canada,North America,1953-12-12
+320954,Female,Christine Lawyer,Surrey,BC,British Columbia,V3W 4N6,Canada,North America,1966-07-27
+321221,Female,Karen White,Vancouver,BC,British Columbia,V6B 3K9,Canada,North America,1953-09-09
+321291,Male,Donald Dolby,Elfros,SK,Saskatchewan,S4P 3Y2,Canada,North America,1968-07-13
+321310,Female,Heather Collins,Sault Ste Marie,ON,Ontario,P6A 1Z2,Canada,North America,1937-03-19
+321313,Female,Beatrice Taylor,Vancouver,BC,British Columbia,V6B 3K9,Canada,North America,1981-03-03
+321432,Female,Veronika Jackson,Toronto,ON,Ontario,M4W 1J7,Canada,North America,1942-07-19
+321501,Male,Theodore Lamar,Ottawa,ON,Ontario,K1P 5M7,Canada,North America,1962-10-26
+321675,Female,Claire Nye,Montreal,QC,Quebec,H3B 4W8,Canada,North America,2001-03-23
+321814,Female,Eula Rosales,Hespeler,ON,Ontario,N3C 2V3,Canada,North America,1950-07-23
+321954,Male,James Todd,London,ON,Ontario,N0N 0N0,Canada,North America,1940-06-21
+322136,Female,Michele Wang,Toronto,ON,Ontario,M3B 2W6,Canada,North America,1946-05-23
+322186,Male,James Gutierrez,Lutselk'e,NT,Northwest Territories,X0E 1A0,Canada,North America,1969-04-12
+322486,Male,Maurice Zarate,New Westminster,BC,British Columbia,V3L 3C1,Canada,North America,1945-05-08
+322558,Female,Helen Cooper,St Catharines,ON,Ontario,L2R 3H6,Canada,North America,1981-04-19
+322616,Male,Ricky Gibson,Calgary,AB,Alberta,T2P 0H3,Canada,North America,1994-03-19
+322714,Female,Mary Killingsworth,Quebec,QC,Quebec,G1R 1B8,Canada,North America,1993-03-23
+322734,Female,Elizabeth Cox,Ottawa,ON,Ontario,K2G 3K2,Canada,North America,1989-08-21
+322806,Male,Joshua Free,Victoria,BC,British Columbia,V8W 2H9,Canada,North America,1992-05-26
+322907,Female,Carol Heintz,Sherbrooke,QC,Quebec,J1H 1R4,Canada,North America,1973-01-20
+322936,Female,Brenda Diehl,Lachute,QC,Quebec,J8H 2J7,Canada,North America,1945-05-10
+322971,Male,Melvin Butler,Unionville,ON,Ontario,L3R 0L7,Canada,North America,1984-12-05
+323084,Male,Stephen Norton,Burnaby,BC,British Columbia,V5B 3C9,Canada,North America,1952-07-14
+323119,Male,James Adame,Victoria,BC,British Columbia,V8W 2H9,Canada,North America,1997-01-25
+323150,Male,William Ellenberger,Standard,AB,Alberta,T0J 3G0,Canada,North America,1979-08-26
+391900,Male,Robert Cover,South Pickering,ON,Ontario,L1V 1S8,Canada,North America,1994-01-27
+392041,Male,Charles Vasquez,Calgary,AB,Alberta,T2N 2A7,Canada,North America,1957-08-02
+392118,Male,James Bell,Montreal,QC,Quebec,H3K 2C3,Canada,North America,1950-03-03
+392187,Male,Martin Gray,Vancouver,BC,British Columbia,V6B 3K9,Canada,North America,1986-03-08
+392359,Female,Susan Seaman,Toronto,ON,Ontario,M5T 1T4,Canada,North America,1986-04-06
+392372,Female,Ellen Bentley,Toronto,ON,Ontario,M4W 1J7,Canada,North America,1967-03-15
+392374,Male,Richard Hungate,Rolphton,ON,Ontario,K0J 2H0,Canada,North America,1943-07-27
+392376,Male,Samuel Close,Kemptville,ON,Ontario,K0G 1J0,Canada,North America,1942-06-21
+392676,Female,Blanche Lima,Prince George,BC,British Columbia,V2L 5E5,Canada,North America,1971-12-27
+392703,Male,William Woodhouse,Toronto,ON,Ontario,M4W 1J7,Canada,North America,1940-07-13
+393097,Female,Carol Larson,Toronto,ON,Ontario,M4W 1J7,Canada,North America,1996-05-01
+393616,Male,Donald McDonald,Cooksville,ON,Ontario,L5A 1V9,Canada,North America,1950-06-13
+393641,Male,Michael Lessard,Hamilton,ON,Ontario,L8R 1H8,Canada,North America,1967-06-12
+393739,Male,Willard Remington,Westmeath,ON,Ontario,K0J 2L0,Canada,North America,1980-06-05
+394173,Male,Jay Jones,Toronto,ON,Ontario,M4E 2V5,Canada,North America,1959-05-22
+394181,Female,Debbie Watkins,Dauphin,MB,Manitoba,R7N 2T3,Canada,North America,1961-08-05
+394231,Male,Ruben Webb,Bowden,AB,Alberta,T0M 0K0,Canada,North America,1937-02-04
+394434,Female,Melissa Anthony,CLYDE,AB,Alberta,T0G 0P0,Canada,North America,1958-03-21
+394530,Female,Mary Davis,Cornwall,ON,Ontario,K6J 3R2,Canada,North America,1966-03-04
+394778,Female,Melinda Santos,Brockville,ON,Ontario,K6V 4N8,Canada,North America,1961-10-07
+394802,Male,Robert Glenn,Montreal,QC,Quebec,H3C 5K4,Canada,North America,1956-03-07
+394929,Male,Leon Stout,Drummondville,QC,Quebec,J2C 4N1,Canada,North America,1974-12-23
+395073,Male,Michael Vandermark,Toronto,ON,Ontario,M6H 4B6,Canada,North America,1983-01-03
+395197,Male,Sean Waddell,Vancouver,BC,British Columbia,V6C 1B4,Canada,North America,1958-09-27
+395280,Female,Chris Duley,Hespeler,ON,Ontario,N3C 1H3,Canada,North America,1960-04-24
+395474,Male,Thomas Campos,Chesterville,ON,Ontario,K0C 1H0,Canada,North America,1948-07-05
+395664,Female,Janice Horner,Winnipeg,MB,Manitoba,R3C 4L5,Canada,North America,1983-06-30
+395914,Female,Nancy Estrada,Gorrie,ON,Ontario,N0G 1X0,Canada,North America,1954-01-17
+395963,Female,Kisha Bloch,Grayson,SK,Saskatchewan,S4P 3Y2,Canada,North America,1940-03-23
+396388,Female,Annie Wright,Calgary,AB,Alberta,T2E 6J8,Canada,North America,1985-10-29
+396567,Female,Shawanda Abreu,Burnaby,BC,British Columbia,V5B 3C9,Canada,North America,1959-08-23
+396631,Male,William Miller,Casselman,ON,Ontario,K0A 1M0,Canada,North America,1967-04-27
+396894,Female,Sasha Cooper,Edmonton,AB,Alberta,T5M 3K3,Canada,North America,1941-03-21
+396944,Male,Zane Belgrave,Toronto,ON,Ontario,M4P 1A6,Canada,North America,1975-09-21
+396969,Female,Ethel Donovan,Toronto,ON,Ontario,M4P 1A6,Canada,North America,1982-07-26
+397223,Male,Clifford Glover,Woss,BC,British Columbia,V0N 3P0,Canada,North America,1943-11-11
+397267,Female,Karen Barrett,Kintore,ON,Ontario,N0M 2C0,Canada,North America,1945-11-12
+397285,Female,Stefani Atencio,Montreal,QC,Quebec,H4J 1M9,Canada,North America,1949-06-19
+397698,Male,Kenneth Simpson,Hope,BC,British Columbia,V0X 1L0,Canada,North America,2000-05-09
+397885,Female,Olga Nestor,Guelph,ON,Ontario,N1H 2W8,Canada,North America,1955-08-20
+397988,Male,Ryan Arnold,Toronto,ON,Ontario,M5H 1P6,Canada,North America,1998-05-21
+398049,Male,Richard Charley,Chilliwack,BC,British Columbia,V2P 2S6,Canada,North America,1962-04-30
+398056,Male,Daniel Runyon,Ottawa,ON,Ontario,K1P 5M7,Canada,North America,1958-04-30
+398085,Male,Jacob Mosley,Toronto,ON,Ontario,M8V 3B6,Canada,North America,1990-04-22
+398100,Male,Daniel Bray,Montreal,QC,Quebec,H2K 4J5,Canada,North America,1944-02-24
+398156,Male,Andrew Lott,Burlington,ON,Ontario,L7P 2S9,Canada,North America,1963-01-10
+398196,Female,Barbara List,Gibbons,AB,Alberta,T0A 1N0,Canada,North America,1974-10-13
+398311,Female,Shirley Moore,Chilliwack,BC,British Columbia,V2P 2M1,Canada,North America,1941-04-12
+398523,Male,Raymond Miller,St Clements,ON,Ontario,N0B 2M0,Canada,North America,1969-07-09
+468124,Female,Klaudia Eberhart,Halstenbek,SH,Schleswig-Holstein,25463,Germany,Europe,1935-07-11
+468359,Female,Petra Himmel,M?nchen,BY,Freistaat Bayern,80686,Germany,Europe,1999-09-01
+468466,Female,Doreen Rothschild,Memmingen,BY,Freistaat Bayern,87686,Germany,Europe,1975-12-09
+468899,Male,Robert B?rger,Pforzheim Hohenwart,BW,Baden-W?rttemberg,75181,Germany,Europe,1980-04-19
+468948,Female,Birgit Frueh,Nordwalde,NW,Nordrhein-Westfalen,48356,Germany,Europe,1937-01-15
+469225,Male,Thomas Eberhart,Berglangenbach,RP,Rheinland-Pfalz,55776,Germany,Europe,1974-06-20
+469440,Female,Barbara Foerster,Berlin Marzahn,BE,Berlin,12685,Germany,Europe,1983-06-17
+469741,Male,Lukas Schulz,Unterf?hring,BY,Freistaat Bayern,85774,Germany,Europe,1950-12-03
+469786,Male,Thomas Schwartz,Schifferstadt,RP,Rheinland-Pfalz,67105,Germany,Europe,1959-03-25
+469815,Female,Mandy Schmitt,Hamminkeln,NW,Nordrhein-Westfalen,46499,Germany,Europe,1945-10-26
+470064,Female,Sarah Cole,Finowfurt,BB,Brandenburg,16241,Germany,Europe,1939-02-11
+470376,Male,Dominik Walter,Weigendorf,BY,Freistaat Bayern,91249,Germany,Europe,1959-04-21
+470428,Female,Laura Daecher,K?llstedt,TH,Freistaat Th?ringen,37356,Germany,Europe,1943-06-03
+470470,Female,Mandy Lowe,Erzhausen,HE,Hessen,64390,Germany,Europe,1955-02-04
+470757,Male,Mike Ebersbach,Stemshorn,NI,Niedersachsen,49448,Germany,Europe,1990-10-04
+470965,Female,Juliane Brandt,Zerbst,ST,Sachsen-Anhalt,39252,Germany,Europe,1982-09-08
+471223,Male,Stephan Werner,M?mlingen,BY,Freistaat Bayern,63851,Germany,Europe,1981-03-30
+471236,Male,Mario Brauer,Worms Ibersheim,RP,Rheinland-Pfalz,67550,Germany,Europe,1979-03-02
+471557,Female,Sophia Klug,Bad Br?ckenau,BY,Freistaat Bayern,97764,Germany,Europe,1996-12-22
+471635,Male,Kevin Baumgartner,Pforzheim Weststadt,BW,Baden-W?rttemberg,75172,Germany,Europe,1995-01-22
+471681,Male,Benjamin Kruger,M?hlheim,BW,Baden-W?rttemberg,78570,Germany,Europe,1950-10-03
+471768,Male,Max Mauer,Auerbach,BY,Freistaat Bayern,91275,Germany,Europe,1937-05-28
+472265,Male,Mike Jager,Salzwedel,ST,Sachsen-Anhalt,29404,Germany,Europe,1944-07-12
+472362,Male,Patrick Ackerman,L?tz,RP,Rheinland-Pfalz,56290,Germany,Europe,1994-09-03
+472719,Male,Patrick Kruger,Wiesenttal,BY,Freistaat Bayern,91346,Germany,Europe,1966-09-30
+472797,Female,Andrea Baumgartner,Eberswalde,BB,Brandenburg,16207,Germany,Europe,1968-04-09
+473267,Female,Karin Drescher,Bremerhaven Geestem?nde,HB,Freie Hansestadt Bremen,27574,Germany,Europe,1965-04-23
+473349,Female,Tanja Nussbaum,Mannheim Friesenheimer Insel,BW,Baden-W?rttemberg,68169,Germany,Europe,1941-04-28
+473468,Male,Tim Lemann,Hamburg Gro? Borstel,HH,Hamburg,22453,Germany,Europe,1948-06-11
+473476,Female,Tanja Decker,Coburg,BY,Freistaat Bayern,96402,Germany,Europe,1935-08-17
+473645,Female,Janina Richter,Neubiberg,BY,Freistaat Bayern,85573,Germany,Europe,1947-05-15
+473689,Female,Diana Schulze,Haibach,BY,Freistaat Bayern,63804,Germany,Europe,1969-02-11
+473791,Male,Maximilian Weissmuller,R?lzheim,RP,Rheinland-Pfalz,76761,Germany,Europe,1941-12-03
+473913,Male,Matthias Vogel,Berschweiler bei Baumholder,RP,Rheinland-Pfalz,55777,Germany,Europe,1951-11-05
+474151,Female,Kristin Ebersbach,Grasberg,NI,Niedersachsen,28879,Germany,Europe,1976-09-12
+474169,Male,David Baer,Aschheim,BY,Freistaat Bayern,85605,Germany,Europe,1952-07-27
+474309,Female,Stefanie Becker,Kirchensittenbach,BY,Freistaat Bayern,91241,Germany,Europe,1939-02-02
+474490,Male,Tobias Pfeffer,Bernhardswald,BY,Freistaat Bayern,93170,Germany,Europe,1977-02-27
+474678,Female,Nicole Grunewald,Dresden,SN,Freistaat Sachsen,1141,Germany,Europe,1985-10-07
+474789,Male,Felix Frey,H?hr-Grenzhausen,RP,Rheinland-Pfalz,56203,Germany,Europe,1993-02-22
+475009,Female,Simone Nagel,Gr?de,SH,Schleswig-Holstein,25869,Germany,Europe,1983-12-20
+475049,Male,Luca Goldschmidt,Solingen Merscheid,NW,Nordrhein-Westfalen,42655,Germany,Europe,1940-06-11
+475071,Male,Lukas Keller,Berlin Waidmannslust,BE,Berlin,13469,Germany,Europe,1955-05-30
+475105,Female,Nicole Thalberg,L?dinghausen,NW,Nordrhein-Westfalen,59348,Germany,Europe,1992-01-22
+475108,Female,Juliane Vogt,Unterf?hring,BY,Freistaat Bayern,85774,Germany,Europe,1988-08-06
+475180,Female,Angelika Baer,Cottbus,BB,Brandenburg,3044,Germany,Europe,1935-10-06
+475441,Male,Sven Beike,Ueckerm?nde,MV,Mecklenburg-Vorpommern,17368,Germany,Europe,1977-05-29
+544970,Male,Sven Wirth,Seelen,RP,Rheinland-Pfalz,67744,Germany,Europe,1981-09-04
+545119,Female,Lisa Naumann,Cham,BY,Freistaat Bayern,93403,Germany,Europe,1986-03-03
+545287,Male,Ulrich Scholz,Wahnwegen,RP,Rheinland-Pfalz,66909,Germany,Europe,1980-07-07
+545414,Male,Maik Adler,Rennertshofen,BY,Freistaat Bayern,86643,Germany,Europe,1974-02-24
+545671,Male,Dirk Fink,Ettenstatt,BY,Freistaat Bayern,91796,Germany,Europe,1987-09-17
+545755,Female,Barbara Freud,Schonungen,BY,Freistaat Bayern,97453,Germany,Europe,1967-01-30
+545764,Female,Laura Muench,Laurenburg,RP,Rheinland-Pfalz,56379,Germany,Europe,1953-05-04
+545914,Male,Lucas Amsel,Ratingen Schwarzbach,NW,Nordrhein-Westfalen,40882,Germany,Europe,1954-05-27
+545935,Male,Thomas Nussbaum,Gl?ckstadt,SH,Schleswig-Holstein,25343,Germany,Europe,1965-07-20
+546153,Male,Tom Mauer,Offenau,BW,Baden-W?rttemberg,74254,Germany,Europe,1958-01-05
+546334,Female,Kristin Burger,Cottbus,BB,Brandenburg,3004,Germany,Europe,1962-10-12
+546432,Female,Anja Gloeckner,Kiel,SH,Schleswig-Holstein,24026,Germany,Europe,1982-04-29
+546471,Female,Antje Rothstein,Neuweiler,BW,Baden-W?rttemberg,75389,Germany,Europe,1966-08-01
+546598,Male,Matthias Dreher,Ro?wein,SN,Freistaat Sachsen,4738,Germany,Europe,1988-07-19
+547106,Male,Maximilian Durr,Endlichhofen,RP,Rheinland-Pfalz,56355,Germany,Europe,1984-11-17
+547310,Female,Mandy Dreher,Baden-Baden,BW,Baden-W?rttemberg,76534,Germany,Europe,1977-09-28
+547324,Male,Stephan Krause,Loreleystadt Sankt Goarshausen,RP,Rheinland-Pfalz,56346,Germany,Europe,1987-02-22
+547514,Male,Wolfgang Konig,Barsb?ttel,SH,Schleswig-Holstein,22885,Germany,Europe,1950-02-05
+547701,Male,J?rgen Bauer,Zeil,BY,Freistaat Bayern,97471,Germany,Europe,1979-11-01
+547714,Female,Kathrin Thalberg,Norderstedt,SH,Schleswig-Holstein,22846,Germany,Europe,1969-12-07
+547989,Female,Kristin Wexler,Hamburg Hamm-Nord,HH,Hamburg,22087,Germany,Europe,1940-06-14
+548183,Female,Klaudia Junker,Gottenheim,BW,Baden-W?rttemberg,79288,Germany,Europe,1936-11-18
+548685,Female,Diana Fischer,Ehr,RP,Rheinland-Pfalz,56357,Germany,Europe,1960-03-21
+548775,Male,Philipp Gottschalk,Stockelsdorf,SH,Schleswig-Holstein,23613,Germany,Europe,1973-11-19
+548802,Female,Susanne Gerber,Heilenbach,RP,Rheinland-Pfalz,54636,Germany,Europe,1966-05-08
+548971,Female,Annett Gerber,Berlin Wedding,BE,Berlin,13357,Germany,Europe,1950-03-12
+549312,Male,Andreas Biermann,Kommen,RP,Rheinland-Pfalz,54472,Germany,Europe,1936-03-18
+549755,Female,Anna Austerlitz,Rostock,MV,Mecklenburg-Vorpommern,18071,Germany,Europe,1994-12-30
+549766,Female,Johanna Nacht,Schiffweiler,TH,Freistaat Th?ringen,66573,Germany,Europe,1939-01-16
+549819,Female,Johanna Hoover,Oberkotzau,BY,Freistaat Bayern,95140,Germany,Europe,1966-12-31
+549889,Male,Paul Beich,Eibenstock,SN,Freistaat Sachsen,8305,Germany,Europe,1971-11-22
+549936,Female,Nadine Osterhagen,Alesheim,BY,Freistaat Bayern,91793,Germany,Europe,1985-08-25
+549970,Male,Paul Weissmuller,Biberach,BW,Baden-W?rttemberg,77781,Germany,Europe,1945-08-15
+549983,Male,Paul Ehrlichmann,Ermsleben,ST,Sachsen-Anhalt,6463,Germany,Europe,1981-09-06
+550082,Male,Dennis Hahn,W?rthsee,BY,Freistaat Bayern,82237,Germany,Europe,1992-07-21
+550274,Male,Marco Weisz,Sommerhausen,BY,Freistaat Bayern,97286,Germany,Europe,1991-09-01
+550432,Female,Anke Goldschmidt,Karlsruhe Neureut,BW,Baden-W?rttemberg,76131,Germany,Europe,1985-02-26
+550501,Female,Monika Schulz,Glinde,SH,Schleswig-Holstein,21505,Germany,Europe,1946-10-21
+550515,Male,Thorsten Decker,Bad Doberan,MV,Mecklenburg-Vorpommern,18202,Germany,Europe,1968-01-05
+550568,Female,Claudia Adler,Ahlerstedt,NI,Niedersachsen,21702,Germany,Europe,1994-01-26
+550677,Male,Erik Ackermann,Steinfeld,RP,Rheinland-Pfalz,76889,Germany,Europe,1960-04-27
+550786,Female,Kristin Schwartz,Tiefenthal,RP,Rheinland-Pfalz,67311,Germany,Europe,1976-02-01
+550794,Female,Nicole Krueger,Langg?ns,HE,Hessen,35428,Germany,Europe,1943-12-30
+551006,Female,Jennifer Busch,W?rzburg,BY,Freistaat Bayern,97007,Germany,Europe,1996-06-08
+551036,Male,Stephan Rothstein,L?tjenwestedt,SH,Schleswig-Holstein,25585,Germany,Europe,1953-07-10
+551067,Female,Simone Ritter,Steinbach am Donnersberg,RP,Rheinland-Pfalz,67808,Germany,Europe,1974-05-15
+551331,Male,Dennis Baumgaertner,Marktredwitz,BY,Freistaat Bayern,95603,Germany,Europe,1943-03-13
+621610,Female,Leala Morel,PERPIGNAN,LN,Languedoc-Roussillon,66000,France,Europe,1996-11-07
+41892,Female,Madeline Eales,DARGAN,NSW,New South Wales,2786,Australia,Australia,1983-01-09
+42134,Male,Benjamin Ethel,EAST YUNA,WA,Western Australia,6532,Australia,Australia,1942-09-22
+42177,Male,Brock James,ELLEKER,WA,Western Australia,6330,Australia,Australia,1960-07-19
+42364,Female,Layla Silas,MARLO MERRICAN,NSW,New South Wales,2446,Australia,Australia,1952-09-27
+42408,Male,Noah Hinchcliffe,THE PALMS,QLD,Queensland,4570,Australia,Australia,1988-11-04
+42474,Male,Alexander Leane,NUBBA,NSW,New South Wales,2587,Australia,Australia,2000-05-23
+42603,Female,Amy Sawyer,CUSHNIE,QLD,Queensland,4608,Australia,Australia,2000-10-09
+42840,Female,Savannah Lansell,XANTIPPE,WA,Western Australia,6609,Australia,Australia,1936-05-23
+42956,Male,Ben Raff,BARA,NSW,New South Wales,2850,Australia,Australia,1944-05-06
+43784,Male,Jeremy Iliffe,SNOWTOWN,SA,South Australia,5520,Australia,Australia,1951-03-19
+43798,Female,Rachel Welch,AMAMOOR,QLD,Queensland,4570,Australia,Australia,1966-01-11
+43840,Female,Rose Vlamingh,OATLANDS,TAS,Tasmania,7120,Australia,Australia,1950-01-19
+44080,Female,Rachel Baldwin,Brighton,VIC,Victoria,3186,Australia,Australia,1954-01-20
+44195,Male,Brayden Topp,LOWER MANGROVE,NSW,New South Wales,2250,Australia,Australia,1984-01-09
+44207,Female,Stella Sternberg,KESWICK TERMINAL,SA,South Australia,5035,Australia,Australia,1984-03-16
+44301,Female,Annabelle Feetham,DUNNROCK,QLD,Queensland,4740,Australia,Australia,1947-10-04
+44493,Female,Jorja Colechin,JACKEYS MARSH,TAS,Tasmania,7304,Australia,Australia,1963-04-28
+44496,Male,Spencer Beach,MOUNT JOY,SA,South Australia,5670,Australia,Australia,1949-09-28
+44728,Female,Abbey Remington,DIGGORA,VIC,Victoria,3561,Australia,Australia,1953-03-14
+44906,Male,Tyson Backhouse,MOUNT GAMBIER,SA,South Australia,5291,Australia,Australia,1994-10-06
+45169,Female,Victoria Ness,GLENROY,QLD,Queensland,4702,Australia,Australia,1990-04-04
+45172,Female,Audrey Crooke,SCOPUS,TAS,Tasmania,7330,Australia,Australia,1986-05-25
+45250,Male,Darcy Fryer,SACKVILLE,NSW,New South Wales,2756,Australia,Australia,1968-11-21
+45436,Female,Maya McIlveen,MILLFIELD,NSW,New South Wales,2325,Australia,Australia,1952-04-16
+45522,Male,Alexander Fenston,TIMBILLICA,NSW,New South Wales,2551,Australia,Australia,1985-04-09
+45781,Male,Bailey Coxen,PONTVILLE,TAS,Tasmania,7030,Australia,Australia,1946-02-27
+45814,Male,Declan Richard,SPRING HILL,NSW,New South Wales,2800,Australia,Australia,1968-04-05
+46155,Female,Alice Phillip,BOWES,WA,Western Australia,6535,Australia,Australia,1956-02-16
+46917,Male,Jamie Price,MERU,WA,Western Australia,6530,Australia,Australia,2000-01-03
+46996,Male,Jonathan Kempt,MURRAY ISLAND,QLD,Queensland,4875,Australia,Australia,1987-02-20
+47382,Female,Brooke Richardson,NORTHGATE,SA,South Australia,5085,Australia,Australia,1955-05-02
+47518,Female,Alana Spencer,UNDULLAH,QLD,Queensland,4285,Australia,Australia,1946-05-13
+47712,Male,Aidan Dethridge,CREMORNE,NSW,New South Wales,2090,Australia,Australia,1976-08-30
+48080,Male,Lincoln Muscio,FERNY CREEK,VIC,Victoria,3786,Australia,Australia,1940-04-10
+48247,Male,Joseph Clemes,HAY FLAT,SA,South Australia,5204,Australia,Australia,1967-05-05
+48367,Female,Rose Allardyce,INSKIP,QLD,Queensland,4581,Australia,Australia,1949-04-09
+48383,Female,Chloe Gillen,KOYUGA SOUTH,VIC,Victoria,3621,Australia,Australia,1951-06-06
+48466,Female,Matilda Shields,HASTINGS POINT,NSW,New South Wales,2489,Australia,Australia,1984-12-13
+48733,Female,Sophia Gunther,BALCOLYN,NSW,New South Wales,2264,Australia,Australia,1989-07-22
+48846,Female,Lucy Kellway,BOWELLING,WA,Western Australia,6225,Australia,Australia,1944-11-04
+48925,Male,Elijah Albert,WOOLOCUTTY,WA,Western Australia,6369,Australia,Australia,1939-09-15
+49400,Male,Mason Ransford,WOOMBYE,QLD,Queensland,4559,Australia,Australia,1967-03-15
+49501,Female,Amelie Edmondson,BUNGABBEE,NSW,New South Wales,2480,Australia,Australia,1982-07-16
+49606,Female,Claire Kerr,GREYMARE,QLD,Queensland,4370,Australia,Australia,1950-04-10
+49748,Male,Tyson Flowers,PARUNA,SA,South Australia,5311,Australia,Australia,1980-02-14
+49776,Female,Jessica Warburton,ROCKLEY MOUNT,NSW,New South Wales,2795,Australia,Australia,1944-07-31
+49950,Female,Tayla Canterbury,EAST LAUNCESTON,TAS,Tasmania,7250,Australia,Australia,1998-10-18
+125950,Female,Isabelle Primrose,BANKSMEADOW,NSW,New South Wales,2019,Australia,Australia,1942-07-18
+126083,Female,Makayla Rickards,MINGAY,NSW,New South Wales,2727,Australia,Australia,1936-08-23
+126320,Female,Sofia Haenke,LARRAKEYAH,NT,Northern Territory,820,Australia,Australia,1978-10-03
+126469,Female,Emily Hinton,CROUDACE BAY,NSW,New South Wales,2280,Australia,Australia,1942-08-03
+126573,Female,Victoria Weindorfer,JARRA CREEK,QLD,Queensland,4854,Australia,Australia,1964-11-16
+126633,Male,Luca Renwick,BURTON,QLD,Queensland,4742,Australia,Australia,1997-12-25
+126744,Male,Declan Mobsby,MARDIE,WA,Western Australia,6714,Australia,Australia,1991-11-14
+126817,Male,Benjamin Antill,Woodlawn,NSW,New South Wales,2480,Australia,Australia,1948-02-12
+126838,Male,Ethan Finsch,TRENTHAM,VIC,Victoria,3458,Australia,Australia,1944-09-28
+126852,Female,Amy Mowll,COOWONGA,QLD,Queensland,4702,Australia,Australia,1962-04-20
+126916,Female,Samantha Peyser,YARRAH,SA,South Australia,5433,Australia,Australia,1984-08-10
+126979,Male,Alex Franki,BROWNS CROSSING,NSW,New South Wales,2441,Australia,Australia,1954-02-16
+127015,Female,Bianca Morwood,BARHAM,NSW,New South Wales,2732,Australia,Australia,1954-09-03
+127146,Male,Hayden Charlesworth,LAMINGTON,QLD,Queensland,4285,Australia,Australia,1970-10-26
+127193,Female,Alana Pearson,WEST KEMPSEY,NSW,New South Wales,2440,Australia,Australia,1977-02-09
+127239,Female,Mia Korner,TRIAMBLE,NSW,New South Wales,2850,Australia,Australia,1977-09-19
+127283,Female,Annabelle Langler,BRIDGES,QLD,Queensland,4561,Australia,Australia,1990-12-27
+127417,Female,Elizabeth Brookman,RIDDELLS CREEK,VIC,Victoria,3431,Australia,Australia,1983-01-14
+127554,Male,Xavier Isaachsen,HAINES,SA,South Australia,5223,Australia,Australia,1979-02-25
+127943,Male,Jackson Raw,MUNIGANEEN,QLD,Queensland,4352,Australia,Australia,1949-06-25
+128007,Female,Eliza Arthur,GREYTHORN,VIC,Victoria,3104,Australia,Australia,1975-10-29
+128179,Female,Tahlia Bischof,CHARBON,NSW,New South Wales,2848,Australia,Australia,1940-08-21
+128305,Male,Harrison Martinovich,MONOMEITH,VIC,Victoria,3984,Australia,Australia,1953-08-25
+128354,Female,Milla Fell,CORDILLO DOWNS,SA,South Australia,5731,Australia,Australia,1943-12-01
+128362,Male,Jasper Elias,TARRA VALLEY,VIC,Victoria,3971,Australia,Australia,1979-07-20
+128538,Male,Ryan Whitty,NURIOOTPA,SA,South Australia,5355,Australia,Australia,1974-04-19
+128585,Male,Christian Picton,WOODPARK,NSW,New South Wales,2164,Australia,Australia,1946-07-14
+129176,Female,Sara Semmens,LOCKSLEY,VIC,Victoria,3665,Australia,Australia,1985-02-07
+129199,Male,Nate Badham,YAMBACOONA,TAS,Tasmania,7256,Australia,Australia,1968-10-12
+129240,Female,Brooke Marsden,BRIGHTON EAST,VIC,Victoria,3187,Australia,Australia,1951-01-19
+129318,Female,Victoria Courtney,PINE VALLEY,NSW,New South Wales,2630,Australia,Australia,1976-08-08
+129405,Female,Isabel Hills,BOMBOWLEE,NSW,New South Wales,2720,Australia,Australia,1954-08-09
+129494,Female,Amber Parry,Greenwood,QLD,Queensland,4401,Australia,Australia,1987-08-19
+129540,Male,Zac O'Meara,GORDONVILLE,NSW,New South Wales,2454,Australia,Australia,1995-02-12
+129554,Female,Victoria Frederic,DHURRINGILE,VIC,Victoria,3610,Australia,Australia,1987-08-30
+129581,Male,Jake Kershaw,COOLATAI,NSW,New South Wales,2402,Australia,Australia,1985-04-01
+129583,Male,Julian Macredie,ETON NORTH,QLD,Queensland,4741,Australia,Australia,1955-12-22
+129698,Male,Jeremy Sligo,MOUNT MARLOW,QLD,Queensland,4800,Australia,Australia,1968-02-02
+129738,Male,Liam Provan,GLENELG SOUTH,SA,South Australia,5045,Australia,Australia,1971-03-31
+129786,Female,Amy Copeland,UPPER FINE FLOWER,NSW,New South Wales,2460,Australia,Australia,1973-01-17
+129948,Female,Lucy Tomkinson,FARLEIGH,QLD,Queensland,4741,Australia,Australia,1974-06-02
+130214,Female,Zoe Coleman,RUTHERGLEN,VIC,Victoria,3685,Australia,Australia,1949-03-20
+130270,Female,Maddison Irving,HOXTON PARK,NSW,New South Wales,2171,Australia,Australia,1940-08-14
+130585,Male,Harrison Gibson,ARTHURVILLE,NSW,New South Wales,2820,Australia,Australia,1974-10-23
+130670,Male,Jack McKelvey,NORTH MACLEAN,QLD,Queensland,4280,Australia,Australia,1975-01-15
+130750,Female,Madison Picot,BILAMBIL HEIGHTS,NSW,New South Wales,2486,Australia,Australia,1967-04-13
+130962,Female,Bianca Schonell,Lyndhurst,SA,South Australia,5731,Australia,Australia,1936-12-12
+205333,Female,Judith Lutz,Shawville,QC,Quebec,J0X 2Y0,Canada,North America,1987-10-31
+205476,Female,Martha Edwards,Arviat,NU,Nunavut,X0C 0E0,Canada,North America,1950-03-21
+205480,Male,Donald Sadler,New Westminster,BC,British Columbia,V3M 6A1,Canada,North America,1976-05-13
+205510,Female,Stephanie Lemaire,Boyle,AB,Alberta,T0A 0M0,Canada,North America,1939-05-02
+205762,Female,Lenora Wong,KINGSTON,ON,Ontario,K7L 4V4,Canada,North America,1990-05-08
+205862,Male,Thomas Marshall,Toronto,ON,Ontario,M3H 4J1,Canada,North America,1998-08-06
+205955,Female,Debbie Schroeder,Qualicum Beach,BC,British Columbia,V0R 2T0,Canada,North America,1988-02-29
+206055,Male,Stanley Evers,Kelowna,BC,British Columbia,V1Y 8H2,Canada,North America,1972-05-08
+206133,Male,Pat Perry,Toronto,ON,Ontario,M4W 1J7,Canada,North America,1986-05-20
+206185,Female,Norma Herman,Kensington,PE,Prince Edward Island,C0B 1M0,Canada,North America,2001-10-17
+206369,Female,Eva Saunders,Bromont,QC,Quebec,J2L 1E6,Canada,North America,1986-08-06
+206407,Male,Joel Burgess,Victoria,BC,British Columbia,V8W 2H9,Canada,North America,1946-10-15
+206450,Female,Sue Devlin,Brantford,ON,Ontario,N3T 2Z8,Canada,North America,1942-01-02
+206717,Male,Robert Hannah,Cranbrook,BC,British Columbia,V1C 2R9,Canada,North America,1997-06-01
+206956,Male,Edwin McCoy,Port Loring,ON,Ontario,P0H 1Y0,Canada,North America,1973-11-17
+207200,Male,Joel Tobias,Espanola,ON,Ontario,P5E 1C4,Canada,North America,1954-11-04
+207476,Male,Alex Stringfellow,Rutland,BC,British Columbia,V2X 2A2,Canada,North America,2000-07-14
+207552,Female,Amber Jenkins,Edmonton,AB,Alberta,T5M 3K3,Canada,North America,1969-04-01
+207775,Male,Antonio Lancaster,Montreal,QC,Quebec,H4J 1M9,Canada,North America,1962-12-26
+207855,Male,Manuel Holland,Toronto,ON,Ontario,M3B 2W6,Canada,North America,1998-11-21
+207996,Male,Robert Lloyd,Stayner,ON,Ontario,L0M 1S0,Canada,North America,1949-02-19
+208037,Male,Jeff Allen,Calgary,AB,Alberta,T3B 2C3,Canada,North America,1946-01-26
+208195,Female,Jill Schwan,Edmonton,AB,Alberta,T5J 2R4,Canada,North America,1980-12-25
+208556,Male,Bernard Fenske,Albanel,QC,Quebec,G8M 3R8,Canada,North America,1979-08-14
+208682,Female,Rebecca Smith,Toronto,ON,Ontario,M5H 1P6,Canada,North America,1958-10-11
+208720,Female,Mary Elliott,Collingwood,ON,Ontario,L9Y 1X1,Canada,North America,1992-09-11
+208825,Female,Annie Kruger,North Vancouver,BC,British Columbia,V5T 2C1,Canada,North America,1957-02-07
+208987,Male,Jonathan Smith,Williams Lake,BC,British Columbia,V2G 1H9,Canada,North America,1987-06-13
+209171,Female,Rosalyn Edwards,Vernon,BC,British Columbia,V1T 6N1,Canada,North America,1974-07-14
+209360,Female,Virgina Gaston,Toronto,ON,Ontario,M1S 1T4,Canada,North America,1949-08-28
+209529,Male,Darrell Lazo,Neustadt,ON,Ontario,N0G 2M0,Canada,North America,1989-12-18
+209628,Female,Dorothy Thomas,St Jerome,QC,Quebec,S4P 3Y2,Canada,North America,1984-05-17
+209685,Female,Carolyn Brandow,Seeleys Bay,ON,Ontario,K0H 2N0,Canada,North America,1981-03-09
+209804,Female,Madalene Mullins,Whistler,BC,British Columbia,V0N 1B0,Canada,North America,1965-12-11
+209872,Female,Harriet Matthews,Ste Anne Des Monts,QC,Quebec,G4V 1B6,Canada,North America,1977-12-08
+209875,Male,Timmy Hartsell,Ville Marie,QC,Quebec,J0Z 3W0,Canada,North America,1939-03-23
+209922,Male,Lee Compton,Kamloops,BC,British Columbia,V2B 3J5,Canada,North America,1957-02-16
+209990,Male,Brandon Loyd,Norwich,ON,Ontario,N0J 1P0,Canada,North America,1975-12-23
+210214,Female,Patricia Bautista,Owen Sound,ON,Ontario,N4K 2N7,Canada,North America,1975-08-02
+210267,Female,Angela Reid,Petawawa,ON,Ontario,K8H 1P6,Canada,North America,1943-11-09
+210310,Male,Jeremiah Griffiths,KINGSTON,ON,Ontario,K7L 4V4,Canada,North America,1942-02-24
+210320,Male,Steven Davin,Chambord,QC,Quebec,G0W 1G0,Canada,North America,1990-06-18
+210469,Male,Ryan Richards,Malton,ON,Ontario,L5T 2B7,Canada,North America,1998-09-15
+210538,Male,Joe Burton,Calgary,AB,Alberta,T2M 0G6,Canada,North America,1951-08-26
+210689,Male,Douglas Bray,Ottawa,ON,Ontario,K1H 7Z1,Canada,North America,1967-10-01
+210936,Female,Rebecca Brothers,Montreal,QC,Quebec,H9R 3J4,Canada,North America,1950-06-21
+210959,Male,Rodney Shea,Winnipeg,MB,Manitoba,R3C 0C4,Canada,North America,1971-05-21
+211057,Female,Katherine Colella,Thornhill,ON,Ontario,L4J 1W2,Canada,North America,1971-04-22
+260206,Male,Gregory Albritton,Toronto,ON,Ontario,M4P 1A6,Canada,North America,1963-05-04
+260373,Male,Orlando Mayo,Montreal,QC,Quebec,H3C 5K4,Canada,North America,1945-12-24
+260521,Female,Mary Flowers,St Catharines,ON,Ontario,L2N 1S8,Canada,North America,1998-11-30
+260889,Male,Lynn Fifer,Orillia,ON,Ontario,L3V 1T4,Canada,North America,1965-11-28
+261059,Male,Jim Smith,Toronto,ON,Ontario,M5H 1P6,Canada,North America,1946-05-24
+261086,Female,Beverly Hirth,St Catharines,ON,Ontario,L2S 3A1,Canada,North America,1965-03-21
+261099,Female,Karen Watson,Calgary,AB,Alberta,T2E 6J8,Canada,North America,1955-08-24
+261111,Male,Edward Harkins,Ottawa,ON,Ontario,K1P 5J4,Canada,North America,1966-09-01
+261122,Male,Mike Defilippo,Etzikom,AB,Alberta,T0K 0W0,Canada,North America,1979-01-21
+261199,Female,Zelda Sessoms,New Westminster,BC,British Columbia,V3L 3C1,Canada,North America,1981-04-12
+261256,Male,Marcus Johnson,Toronto,ON,Ontario,M8V 3B6,Canada,North America,1990-04-03
+261272,Female,Alice Poe,Concession,NS,Nova Scotia,B0W 1M0,Canada,North America,1975-05-30
+261275,Female,Pamela Solomon,Malton,ON,Ontario,L5T 2B7,Canada,North America,2001-02-21
+261295,Female,Sandra Iglesias,Windsor,ON,Ontario,N9A 1H9,Canada,North America,1958-03-20
+261356,Male,Thomas Mull,Saskatoon,SK,Saskatchewan,S7K 1W8,Canada,North America,1991-11-18
+261498,Female,Josephine Guillotte,Penticton,BC,British Columbia,V2A 2T6,Canada,North America,1947-04-04
+261558,Male,Donald Burke,Calgary,AB,Alberta,T2V 2W2,Canada,North America,1971-06-20
+261669,Male,Jason Lukasik,Clearwater,BC,British Columbia,V0E 1N0,Canada,North America,1979-04-04
+261686,Male,Francis Parker,Ladysmith,BC,British Columbia,V0R 1E0,Canada,North America,1976-03-18
+261840,Male,Thomas Lim,Calgary,AB,Alberta,T2T 0C6,Canada,North America,1974-04-15
+261910,Male,Donald Li,Ottawa,ON,Ontario,K2H 5B6,Canada,North America,1980-05-31
+262037,Female,Patricia Johnson,Stirling,AB,Alberta,T0K 2E0,Canada,North America,1980-12-11
+262050,Female,Misty Hedgepeth,Ville Le Gardeur,QC,Quebec,J5Z 1R6,Canada,North America,1945-06-07
+262052,Female,Jean Egbert,Trois Rivieres,QC,Quebec,G9A 5S8,Canada,North America,1936-12-11
+262089,Female,Dianna Vosburg,Toronto,ON,Ontario,M8V 3B6,Canada,North America,1983-04-12
+262393,Female,Yetta Whitaker,Victoria,BC,British Columbia,V8R 5A7,Canada,North America,1949-10-18
+262645,Female,Rachael Lawson,Belleville,ON,Ontario,K8N 4Z5,Canada,North America,1952-07-17
+262761,Male,Adam Perez,Port Hope,ON,Ontario,L1A 1N4,Canada,North America,1965-04-23
+262788,Male,Marc Rupert,Hespeler,ON,Ontario,N3C 1H3,Canada,North America,1938-05-21
+262802,Female,Mozelle Orth,London,ON,Ontario,N6B 3L5,Canada,North America,1994-03-14
+262821,Female,Gina Lucas,Charlottetown,NS,Nova Scotia,C1A 5T1,Canada,North America,1992-08-18
+262871,Male,Roy Le,Merrickville,ON,Ontario,K0G 1N0,Canada,North America,1981-04-07
+263011,Male,Paul Wahl,Cambridge Bay,NT,Northwest Territories,X0E 0C0,Canada,North America,1980-08-12
+263308,Male,Theodore Hickey,Brantford,ON,Ontario,N3R 7W5,Canada,North America,1978-10-17
+263373,Male,Daniel Shirey,Lethbridge,AB,Alberta,T1J 2J7,Canada,North America,1990-08-15
+263446,Male,Micheal Harms,Thunder Bay,ON,Ontario,P7A 4T3,Canada,North America,1958-07-26
+263808,Female,Catherine Guidry,Jansen,SK,Saskatchewan,S4P 3Y2,Canada,North America,1942-09-14
+264228,Female,Dorothy Key,Montreal,QC,Quebec,S4P 3Y2,Canada,North America,1982-12-04
+264451,Female,Elizabeth Lovell,North Vancouver,BC,British Columbia,V5T 2C1,Canada,North America,1986-01-27
+264515,Female,Frances Hale,Kelowna,BC,British Columbia,V1Y 8H2,Canada,North America,1937-09-09
+264632,Female,Patricia Steeves,Salmo,BC,British Columbia,V0G 1Z0,Canada,North America,1955-06-10
+264640,Male,Roscoe Becker,Toronto,ON,Ontario,M2N 2G8,Canada,North America,1993-07-17
+264718,Female,Rebecca Scheffel,Decker Lake,BC,British Columbia,V0J 1E0,Canada,North America,1935-08-22
+264866,Female,Shantell Freeman,Courtenay,BC,British Columbia,V9N 2J6,Canada,North America,1955-07-19
+265007,Male,John Clark,Toronto,ON,Ontario,M5H 1P6,Canada,North America,1950-01-07
+265326,Male,Hassan Taylor,Edmonton,AB,Alberta,T5J 2R4,Canada,North America,1938-03-23
+265483,Female,Patricia Mitchell,Brockville,ON,Ontario,K6V 4X4,Canada,North America,2001-07-15
+265593,Male,Fred Eddy,Saskatoon,SK,Saskatchewan,S7K 1W8,Canada,North America,1980-04-20
+337002,Male,Bernard Self,Richmond Hill,ON,Ontario,L4C 3Y2,Canada,North America,1954-09-05
+337518,Female,Cecilia Downs,Vancouver,BC,British Columbia,V6B 3K9,Canada,North America,1959-02-23
+337589,Female,Adrienne Soriano,Carmangay,AB,Alberta,T0L 0N0,Canada,North America,2001-08-08
+337629,Female,Shelly Knoll,Ridgetown,ON,Ontario,N0P 2C0,Canada,North America,1943-07-04
+337695,Female,Lucila Yagi,Edmonton,AB,Alberta,T5J 3N2,Canada,North America,1982-11-09
+337764,Male,Richard Reyna,Woodbridge,ON,Ontario,L0L 0L0,Canada,North America,1938-11-09
+337783,Female,Genevieve Klos,Montreal,QC,Quebec,H3C 5K4,Canada,North America,1987-07-22
+337850,Female,Gena Aman,Lac La Hache,BC,British Columbia,V0K 1T0,Canada,North America,1991-06-28
+337903,Female,Janie Molina,Orillia,ON,Ontario,L3V 1T4,Canada,North America,1951-07-20
+338278,Male,Levi Ochoa,New Westminster,BC,British Columbia,V3L 3C1,Canada,North America,1993-08-06
+338420,Female,Margaret Fry,Calgary,AB,Alberta,T2P 1M6,Canada,North America,1999-10-30
+338444,Female,Stephanie Bailey,Etobicoke,ON,Ontario,M9W 1K7,Canada,North America,1965-12-27
+338683,Female,Maude Steele,Vancouver,BC,British Columbia,V5R 2T4,Canada,North America,1952-06-07
+339050,Male,Jacob Craver,Edmonton,AB,Alberta,T5J 0K7,Canada,North America,1957-05-03
+339068,Female,Earlene Kash,Delisle,QC,Quebec,G0W 1L0,Canada,North America,1997-02-11
+339146,Male,Carl Bowman,Bindloss,AB,Alberta,T1T 1T1,Canada,North America,1939-01-19
+339390,Female,Jacquelyn Bise,Toronto,ON,Ontario,M4W 1J7,Canada,North America,1979-09-15
+339412,Female,Tammy Kendall,Kindersley,SK,Saskatchewan,S7K 1W8,Canada,North America,1956-08-03
+339448,Male,John Walker,Red Deer,AB,Alberta,T4N 5Z9,Canada,North America,1951-12-08
+339939,Female,Heather Mireles,Montreal,QC,Quebec,H4J 1M9,Canada,North America,1983-05-10
+340288,Female,Sonya Williams,Burnaby,BC,British Columbia,V5B 3C9,Canada,North America,1968-12-09
+340307,Female,Amy Holland,Carnduff,SK,Saskatchewan,S0C 0S0,Canada,North America,1965-04-07
+340339,Male,John Kennedy,Montreal,QC,Quebec,H3K 2C3,Canada,North America,1998-07-15
+340417,Male,Edmund Mitchell,Mission,BC,British Columbia,V2V 1J7,Canada,North America,1983-01-22
+340427,Female,Bertha Nelson,Osoyoos,BC,British Columbia,V0H 1V0,Canada,North America,1986-02-08
+340460,Male,William Lovett,Toronto,ON,Ontario,M4A 2M5,Canada,North America,1999-12-29
+340665,Female,Sue Garza,Peace River,AB,Alberta,T8S 1V9,Canada,North America,1982-02-11
+340771,Male,Andrew Washburn,Toronto,ON,Ontario,M4W 1J7,Canada,North America,1966-06-08
+340782,Male,Caleb Pratt,Lachute,QC,Quebec,J8H 2J7,Canada,North America,1993-10-08
+341134,Female,Amber Ginn,Campbellville,ON,Ontario,L0P 1B0,Canada,North America,1985-11-11
+341191,Female,Dona Williams,Calgary,AB,Alberta,T2R 0A9,Canada,North America,1956-11-26
+341265,Female,Carolyn Montgomery,Carnarvon,ON,Ontario,K0M 1J0,Canada,North America,1938-12-03
+341831,Male,Theodore Wright,Toronto,ON,Ontario,M8W 4Y4,Canada,North America,1958-12-15
+342040,Male,John Norris,Toronto,ON,Ontario,M1S 1T4,Canada,North America,1998-01-24
+342356,Male,Paul Herman,St Paul,AB,Alberta,T0A 3A0,Canada,North America,1982-04-27
+342393,Male,Pat Spivey,Barrie,ON,Ontario,L4M 3B1,Canada,North America,1987-10-28
+342512,Female,Rita Smith,Toronto,ON,Ontario,M5J 2N1,Canada,North America,1949-02-06
+342652,Male,Harold Valdez,Waterdown,ON,Ontario,L8G 3R4,Canada,North America,1944-05-15
+342674,Female,Shelley Kiser,Montreal,QC,Quebec,H3B 4W8,Canada,North America,1945-01-18
+342841,Female,Nola Silverman,Nanaimo,BC,British Columbia,V9T 5H3,Canada,North America,1940-10-14
+343007,Male,William Helton,Streetsville,ON,Ontario,L5M 1X2,Canada,North America,1980-12-30
+343061,Male,William Day,Stouffville,ON,Ontario,L4A 1T2,Canada,North America,1966-07-03
+343095,Male,Robert Pacheco,Windsor,ON,Ontario,N9A 1H9,Canada,North America,1948-01-18
+343129,Female,Sonia Jenkins,Toronto,ON,Ontario,M4W 1J7,Canada,North America,1997-05-13
+343183,Female,Darlene Venne,Montreal,QC,Quebec,H3C 5K4,Canada,North America,1965-09-22
+343285,Female,Norma Weaver,Carnarvon,ON,Ontario,K0M 1J0,Canada,North America,1940-01-09
+343400,Female,Lisa Smith,La Crete,AB,Alberta,T0H 2H0,Canada,North America,1968-08-01
+343632,Female,Janice Nelligan,Hamilton,ON,Ontario,L9A 4V3,Canada,North America,1995-04-10
+343801,Female,Shannon Robinson,Belleville,ON,Ontario,K8N 4Z5,Canada,North America,1991-02-10
+410819,Female,Laura Busch,Pielenhofen,BY,Freistaat Bayern,93188,Germany,Europe,1961-10-16
+410853,Male,Matthias Abendroth,Waldkraiburg,BY,Freistaat Bayern,84470,Germany,Europe,1988-09-11
+410879,Male,Florian Lang,Geisenfeld,BY,Freistaat Bayern,85284,Germany,Europe,1987-05-09
+410924,Male,Michael Baier,Henstedt-Ulzburg,SH,Schleswig-Holstein,24549,Germany,Europe,1947-08-18
+411312,Male,Marko Eggers,Hamburg Eimsb?ttel,HH,Hamburg,20253,Germany,Europe,1998-07-15
+411322,Male,Michael Lehmann,Ockfen,RP,Rheinland-Pfalz,54441,Germany,Europe,1936-01-10
+411596,Female,Melanie Traugott,Obergr?ningen,BW,Baden-W?rttemberg,73569,Germany,Europe,1971-10-12
+411768,Male,Tobias Engel,Magdeburg,ST,Sachsen-Anhalt,39001,Germany,Europe,2000-08-27
+411778,Female,Anna Schr?der,K?ln Chorweiler,NW,Nordrhein-Westfalen,50767,Germany,Europe,1949-04-01
+411864,Male,Dirk Ebersbach,Kiel,SH,Schleswig-Holstein,24038,Germany,Europe,1983-11-06
+412039,Female,Sara Foerster,Osann-Monzel,RP,Rheinland-Pfalz,54518,Germany,Europe,1942-11-20
+412041,Male,Kevin Gloeckner,M?nstermaifeld,RP,Rheinland-Pfalz,56294,Germany,Europe,1967-07-20
+412280,Female,Andrea Zimmer,Berlin Mitte,BE,Berlin,10179,Germany,Europe,1971-01-01
+412514,Male,Ralph Schneider,Leverkusen,NW,Nordrhein-Westfalen,51371,Germany,Europe,1997-07-15
+412760,Male,Jens Walter,Jerrishoe,SH,Schleswig-Holstein,24963,Germany,Europe,1991-04-17
+413117,Male,Torsten Himmel,Fahren,SH,Schleswig-Holstein,24253,Germany,Europe,1968-07-28
+413286,Male,Erik Daecher,Hamburg Francop,HH,Hamburg,21129,Germany,Europe,2000-03-27
+413289,Female,Antje Hartmann,Hamburg Barmbek-Nord,HH,Hamburg,22307,Germany,Europe,1950-05-24
+413347,Female,Simone Fassbinder,Berlin Spandau,BE,Berlin,13581,Germany,Europe,1973-11-02
+413393,Male,Dieter Wei?,Kaiserslautern Erfenbach,RP,Rheinland-Pfalz,67659,Germany,Europe,1996-04-21
+413461,Female,Anne Gersten,Quedlinburg,ST,Sachsen-Anhalt,6472,Germany,Europe,1965-09-11
+413607,Female,Karolin Nacht,St Wendel,TH,Freistaat Th?ringen,66596,Germany,Europe,1964-12-28
+413655,Male,Kristian Lange,Bargfeld-Stegen,SH,Schleswig-Holstein,23861,Germany,Europe,1968-10-08
+413703,Female,Christine Reinhard,Trossingen,BW,Baden-W?rttemberg,78647,Germany,Europe,1971-05-18
+413919,Male,Philipp Schwab,Stadtsteinach,BY,Freistaat Bayern,95343,Germany,Europe,1964-12-27
+414070,Female,Jana Berg,Detmold Berlebeck,NW,Nordrhein-Westfalen,32760,Germany,Europe,1970-02-03
+414116,Male,Jan Shuster,Dresden,SN,Freistaat Sachsen,1239,Germany,Europe,1946-01-22
+414123,Male,Stephan Jung,Aichach,BY,Freistaat Bayern,86545,Germany,Europe,1962-10-19
+414166,Female,Sophia Kastner,Grafing,BY,Freistaat Bayern,85563,Germany,Europe,1947-09-28
+414238,Female,Claudia Baader,Adorf,SN,Freistaat Sachsen,8621,Germany,Europe,1981-10-11
+414750,Female,Katrin Naumann,Gutenstetten,BY,Freistaat Bayern,91468,Germany,Europe,1956-01-15
+415125,Female,Nicole Meier,M?nchen,BY,Freistaat Bayern,80048,Germany,Europe,1983-09-11
+415347,Female,Kerstin Holtzmann,Ro?tal,BY,Freistaat Bayern,90574,Germany,Europe,1989-05-24
+415350,Male,J?rgen Ebersbach,Dresden,SN,Freistaat Sachsen,1097,Germany,Europe,1985-09-04
+416182,Male,Christian Mayer,Almersbach,RP,Rheinland-Pfalz,57610,Germany,Europe,1968-08-07
+416331,Female,Ute Eisenberg,Gro?enhain,SN,Freistaat Sachsen,1558,Germany,Europe,1985-03-18
+416365,Male,Robert Baier,Neckartenzlingen,BW,Baden-W?rttemberg,72654,Germany,Europe,1991-09-19
+416421,Female,Juliane Wexler,Loitzendorf,BY,Freistaat Bayern,94359,Germany,Europe,1996-07-26
+416434,Female,Angelika Nussbaum,Utting,BY,Freistaat Bayern,86917,Germany,Europe,1982-05-09
+416458,Male,Mike Nussbaum,Bechhofen,BY,Freistaat Bayern,91568,Germany,Europe,1967-11-10
+416518,Female,Annett Freitag,Nattheim,BW,Baden-W?rttemberg,89564,Germany,Europe,1946-10-10
+416655,Male,Max Bosch,Rosendahl,NW,Nordrhein-Westfalen,48720,Germany,Europe,1985-10-19
+416834,Male,Paul Jung,Schwarzenborn,HE,Hessen,34639,Germany,Europe,1989-01-25
+416872,Male,Mario Fiedler,Berglicht,RP,Rheinland-Pfalz,54426,Germany,Europe,1943-09-29
+417129,Male,Thorsten Wagner,Amtzell,BW,Baden-W?rttemberg,88279,Germany,Europe,1948-01-24
+417275,Male,Stefan Vogler,Berlin Britz,BE,Berlin,12349,Germany,Europe,1977-08-25
+417360,Male,Ralf Schweitzer,Spabr?cken,RP,Rheinland-Pfalz,55595,Germany,Europe,1965-04-17
+417535,Male,Ralph Eberhardt,Jena,TH,Freistaat Th?ringen,7749,Germany,Europe,1969-06-19
+489501,Female,Jana Muench,Willingshausen,HE,Hessen,34628,Germany,Europe,1953-09-21
+489742,Female,Kathrin Cole,Arzberg,BY,Freistaat Bayern,95653,Germany,Europe,1977-12-04
+489744,Female,Johanna Kaufmann,Achtrup,SH,Schleswig-Holstein,25917,Germany,Europe,1968-09-25
+489830,Female,Sabrina Finkel,Marpingen,TH,Freistaat Th?ringen,66646,Germany,Europe,2001-11-02
+489948,Male,Philipp Schuster,Tuntenhausen,BY,Freistaat Bayern,83104,Germany,Europe,1990-05-25
+489998,Female,Sara Meister,Oberhausen Tackenberg,NW,Nordrhein-Westfalen,46119,Germany,Europe,1970-09-03
+490481,Female,Doreen Abend,Egmating,BY,Freistaat Bayern,85658,Germany,Europe,1979-01-31
+490672,Male,Dirk Braun,Bremerhaven Fischereihafen,HB,Freie Hansestadt Bremen,27572,Germany,Europe,1996-10-08
+490731,Female,Anne Klein,Erftstadt,NW,Nordrhein-Westfalen,50374,Germany,Europe,1987-03-16
+490850,Male,Max Kaufmann,Leutershausen,BY,Freistaat Bayern,91578,Germany,Europe,1970-02-12
+490933,Female,Michelle Schroeder,Boostedt,SH,Schleswig-Holstein,24598,Germany,Europe,1951-08-25
+490984,Male,Dirk Foerster,Chemnitz,SN,Freistaat Sachsen,9027,Germany,Europe,1994-08-23
+491084,Female,Nicole Weissmuller,Georgensgm?nd,BY,Freistaat Bayern,91162,Germany,Europe,1949-09-23
+491106,Female,Diana Schuhmacher,Grafenw?hr,BY,Freistaat Bayern,92649,Germany,Europe,1958-12-27
+491167,Male,Jonas Baecker,Pressath,BY,Freistaat Bayern,92687,Germany,Europe,1959-04-03
+491289,Female,Lena Fuchs,Ribnitz-Damgarten,MV,Mecklenburg-Vorpommern,18306,Germany,Europe,1940-03-05
+491488,Female,Silke Kruger,Oberdischingen,BW,Baden-W?rttemberg,89610,Germany,Europe,1990-10-21
+491529,Female,Christina Schmitt,Kellenbach,RP,Rheinland-Pfalz,55606,Germany,Europe,1992-07-07
+491918,Female,Brigitte Dresner,Mannheim Innenstadt,BW,Baden-W?rttemberg,68161,Germany,Europe,1987-02-28
+492040,Female,Annett Frei,N?rnberg,BY,Freistaat Bayern,90017,Germany,Europe,1945-12-15
+492062,Female,Michelle Decker,Ahrensb?k,SH,Schleswig-Holstein,23620,Germany,Europe,1948-01-09
+492147,Female,Annett Ehrlichmann,Coburg,BY,Freistaat Bayern,96420,Germany,Europe,1938-07-18
+492206,Male,Tim Schulze,Kirsbach,RP,Rheinland-Pfalz,53539,Germany,Europe,1952-03-27
+492768,Female,Klaudia Konig,Waren,MV,Mecklenburg-Vorpommern,17187,Germany,Europe,1978-10-06
+492898,Female,Sabine Amsel,Hamburg Ei?endorf,HH,Hamburg,21075,Germany,Europe,1939-06-06
+493090,Female,Ute Achen,Nister,RP,Rheinland-Pfalz,57645,Germany,Europe,1955-12-06
+493183,Male,Torsten Brauer,Ferdinandshof,MV,Mecklenburg-Vorpommern,17376,Germany,Europe,1948-06-19
+493252,Male,Dennis Ackerman,Gr?mbach,BW,Baden-W?rttemberg,72294,Germany,Europe,1963-09-29
+493374,Female,Sarah Metzger,Dannewerk,SH,Schleswig-Holstein,24867,Germany,Europe,1965-07-09
+493378,Female,Jennifer Eiffel,S?rth,RP,Rheinland-Pfalz,57636,Germany,Europe,1976-04-16
+493610,Male,Tom K?nig,Illingen,TH,Freistaat Th?ringen,66553,Germany,Europe,1949-01-24
+493779,Female,Anne Bach,Aurach,BY,Freistaat Bayern,91589,Germany,Europe,1980-09-28
+493927,Male,Max K?hler,Regensburg,BY,Freistaat Bayern,93003,Germany,Europe,1937-01-29
+494009,Female,Petra Wirth,Bad Reichenhall,BY,Freistaat Bayern,83429,Germany,Europe,1994-03-26
+494032,Female,Vanessa Gerber,Zotzenheim,RP,Rheinland-Pfalz,55576,Germany,Europe,1948-06-04
+494192,Female,Martina Krueger,Dallgow,BB,Brandenburg,14624,Germany,Europe,1965-09-08
+494291,Female,Julia Reiniger,Viersen Hagenbroich,NW,Nordrhein-Westfalen,41749,Germany,Europe,1987-06-13
+494417,Female,Martina Klug,Freudental,BW,Baden-W?rttemberg,74392,Germany,Europe,1951-03-04
+494464,Female,Mandy Hoffmann,Bad Sachsa,NI,Niedersachsen,37441,Germany,Europe,1987-08-26
+494472,Female,Annett Muller,Rottach-Egern,BY,Freistaat Bayern,83697,Germany,Europe,1977-06-20
+494519,Female,Monika Mauer,W?llstein,RP,Rheinland-Pfalz,55597,Germany,Europe,1950-10-29
+494890,Male,Stefan Traugott,M?nchen,BY,Freistaat Bayern,81616,Germany,Europe,1956-10-06
+495181,Male,Stephan Eisenberg,Alfhausen,NI,Niedersachsen,49594,Germany,Europe,1959-06-13
+495236,Female,Karin Brauer,Lucka,TH,Freistaat Th?ringen,4611,Germany,Europe,1988-11-10
+495703,Female,Julia Hirsch,Frankleben,ST,Sachsen-Anhalt,6259,Germany,Europe,1937-02-20
+495843,Male,Dennis Baumgartner,Hamburg Kleiner Grasbrook,HH,Hamburg,20457,Germany,Europe,1938-07-27
+495894,Female,Anke Lehmann,Imsweiler,RP,Rheinland-Pfalz,67808,Germany,Europe,1987-09-12
+565707,Male,David Maurer,Roden,BY,Freistaat Bayern,97849,Germany,Europe,1976-10-01
+565772,Female,Birgit Meister,Niederstedem,RP,Rheinland-Pfalz,54634,Germany,Europe,1943-05-21
+565776,Female,Jessika Baum,N?rnberg,BY,Freistaat Bayern,90427,Germany,Europe,1982-03-27
+565827,Male,Frank Jaeger,Altenkunstadt,BY,Freistaat Bayern,96262,Germany,Europe,1974-07-05
+566172,Female,Silke Wei?,Diethardt,RP,Rheinland-Pfalz,56355,Germany,Europe,1974-01-26
+566198,Male,Tom Eberhart,Straubing,BY,Freistaat Bayern,94315,Germany,Europe,1980-05-06
+566319,Female,Ursula Ostermann,Viersen Helenabrunn,NW,Nordrhein-Westfalen,41748,Germany,Europe,1990-07-27
+566465,Female,Tanja M?ller,Wuppertal Elberfeld,NW,Nordrhein-Westfalen,42115,Germany,Europe,1977-02-17
+566538,Male,Daniel Kirsch,Enger,NW,Nordrhein-Westfalen,32130,Germany,Europe,1944-05-02
+566552,Female,Jessica Freytag,Saarlouis,TH,Freistaat Th?ringen,66740,Germany,Europe,1959-01-12
+566856,Female,Daniela Bumgarner,Gro?enhain,SN,Freistaat Sachsen,1558,Germany,Europe,2001-11-22
+567032,Male,Jens Jaeger,Bebensee,SH,Schleswig-Holstein,23816,Germany,Europe,1949-03-24
+567059,Male,Tobias Pfeifer,Vahlberg,NI,Niedersachsen,38170,Germany,Europe,1985-07-14
+567076,Male,Kevin Frankfurter,Taching,BY,Freistaat Bayern,83373,Germany,Europe,1985-09-30
+567108,Female,Franziska Lowe,Hamburg Lohbr?gge,HH,Hamburg,21033,Germany,Europe,1940-09-24
+567243,Male,Ralf Drechsler,Elmenhorst,MV,Mecklenburg-Vorpommern,18107,Germany,Europe,1997-10-10
+567521,Male,Marko Fruehauf,Lorch,HE,Hessen,65391,Germany,Europe,1967-02-10
+567740,Female,Michelle Feierabend,Ottersberg,NI,Niedersachsen,28870,Germany,Europe,1948-03-01
+567932,Male,Marcel Dresner,Aschenhausen,TH,Freistaat Th?ringen,98634,Germany,Europe,2000-11-04
+567953,Female,Jessika Freytag,Flarchheim,TH,Freistaat Th?ringen,99986,Germany,Europe,1972-02-03
+568043,Female,Kathrin Burger,Oberpframmern,BY,Freistaat Bayern,85667,Germany,Europe,1981-03-21
+568157,Female,Daniela Adler,M?nchen,BY,Freistaat Bayern,81825,Germany,Europe,1953-12-18
+568160,Female,Angelika Meister,Trier Weismark-Feyen,RP,Rheinland-Pfalz,54295,Germany,Europe,1945-08-06
+568333,Male,J?rgen Amsel,Immenhausen,HE,Hessen,34376,Germany,Europe,1945-09-21
+568908,Male,Marco Fisher,Gro?enhain,SN,Freistaat Sachsen,1552,Germany,Europe,1949-08-13
+568959,Male,Tom Schroder,Bellenberg,BY,Freistaat Bayern,89285,Germany,Europe,1949-12-20
+569079,Male,Dennis Busch,Jena,TH,Freistaat Th?ringen,7708,Germany,Europe,1936-04-28
+569215,Male,Patrick Freitag,Bad Kissingen,BY,Freistaat Bayern,97668,Germany,Europe,1992-11-30
+569256,Male,Eric Reinhardt,Altshausen,BW,Baden-W?rttemberg,88361,Germany,Europe,1955-08-24
+569283,Female,Christina Kr?ger,Straubenhardt,BW,Baden-W?rttemberg,75334,Germany,Europe,1954-02-01
+569695,Female,Johanna Herzog,Offenbach am Main,HE,Hessen,63069,Germany,Europe,2000-03-05
+569853,Male,Robert Wulf,Seedorf,NI,Niedersachsen,27404,Germany,Europe,1961-01-14
+569989,Male,Mario Friedman,Oerlenbach,BY,Freistaat Bayern,97712,Germany,Europe,1940-07-30
+570046,Male,Michael Lange,Berlin Schmargendorf,BE,Berlin,14199,Germany,Europe,1977-02-24
+570146,Male,Ulrich Barth,Oberammergau,BY,Freistaat Bayern,82482,Germany,Europe,1935-11-14
+570247,Male,Marko Fischer,D?sseldorf Hassels,NW,Nordrhein-Westfalen,40597,Germany,Europe,1962-09-24
+570365,Male,Benjamin Abend,Plech,BY,Freistaat Bayern,91287,Germany,Europe,1984-02-09
+570476,Male,J?rgen Hofmann,Stuttgart Rohr,BW,Baden-W?rttemberg,70565,Germany,Europe,1936-04-22
+570530,Male,Jan Kaufmann,Trassem,RP,Rheinland-Pfalz,54441,Germany,Europe,1972-10-02
+570550,Female,Daniela Scherer,Bad Neustadt,BY,Freistaat Bayern,97604,Germany,Europe,1954-05-18
+570655,Male,Steffen Richter,Freiberg,SN,Freistaat Sachsen,9581,Germany,Europe,1966-03-06
+570710,Male,Dominik Diederich,Rudolstadt,TH,Freistaat Th?ringen,7395,Germany,Europe,1944-04-16
+570741,Male,Christian K?hler,Chemnitz,SN,Freistaat Sachsen,9033,Germany,Europe,1963-02-25
+570797,Male,Tobias Meister,Fl?the,NI,Niedersachsen,38312,Germany,Europe,1958-06-06
+570994,Female,Jana Schmitz,Niederviehbach,BY,Freistaat Bayern,84183,Germany,Europe,1966-08-10
+571117,Female,Kerstin Freeh,Karst?dt,BB,Brandenburg,19355,Germany,Europe,1945-08-05
+571187,Female,Stephanie Schulze,Polle,NI,Niedersachsen,37647,Germany,Europe,1949-10-16
+571339,Male,Sven Hueber,Bremen Schwachhausen,HB,Freie Hansestadt Bremen,28209,Germany,Europe,1972-09-13
+7109,Male,Hamish Bolton,LANKEYS CREEK,NSW,New South Wales,2644,Australia,Australia,1979-11-15
+7122,Female,Lara Virtue,HIGGINSVILLE,WA,Western Australia,6443,Australia,Australia,1999-08-13
+7313,Female,Chelsea Keast,KANMANTOO,SA,South Australia,5252,Australia,Australia,1990-01-26
+7398,Male,Jonathan Thorpe,COOEE BAY,QLD,Queensland,4703,Australia,Australia,1945-06-10
+7493,Male,Declan Torrens,NOORINDOO,QLD,Queensland,4417,Australia,Australia,1978-07-20
+7494,Male,Ben Coventry,HYDE PARK,QLD,Queensland,4812,Australia,Australia,1967-04-02
+7566,Male,William Prenzel,KILLARA,VIC,Victoria,3691,Australia,Australia,1993-07-01
+7664,Male,Riley Gaffney,CANOWIE,SA,South Australia,5419,Australia,Australia,1947-03-18
+7700,Male,Lucas Keenan,STANWELL TOPS,NSW,New South Wales,2508,Australia,Australia,1975-01-27
+7725,Female,Anna Prerauer,CURRIMUNDI,QLD,Queensland,4551,Australia,Australia,1968-01-06
+7783,Female,Charli Gullett,MOUNT WALLACE,VIC,Victoria,3342,Australia,Australia,1961-08-13
+8098,Female,Alana Belt,SOUTH GREENOUGH,WA,Western Australia,6528,Australia,Australia,1967-01-26
+8181,Female,Amelie Nairn,DARTMOUTH,VIC,Victoria,3701,Australia,Australia,1985-07-08
+8220,Male,David Blanch,Vista,SA,South Australia,5091,Australia,Australia,1945-07-29
+8789,Female,Layla Mackellar,KALKARINDJI,NT,Northern Territory,852,Australia,Australia,1999-07-13
+8794,Female,Abbey Lempriere,BOULDER CREEK,QLD,Queensland,4714,Australia,Australia,1962-11-02
+8945,Female,Summer MacMahon,WARUMBUL,NSW,New South Wales,2229,Australia,Australia,1939-06-28
+9167,Male,Luke Bushby,PARACOMBE,SA,South Australia,5132,Australia,Australia,1975-12-02
+9184,Male,Sam Zimpel,CORUNNUN,VIC,Victoria,3249,Australia,Australia,1964-11-24
+9360,Male,Mitchell Adam,MOPARRABAH,NSW,New South Wales,2440,Australia,Australia,1955-01-30
+9370,Female,Ruby Lock,Cook,ACT,Australian Capital Territory,2614,Australia,Australia,1953-05-26
+9389,Female,Eliza Brophy,YEARINAN,NSW,New South Wales,2357,Australia,Australia,1956-04-08
+9456,Male,Ryder Abdullah,CLAREDALE,QLD,Queensland,4807,Australia,Australia,1941-05-21
+9812,Female,Kaitlyn Morshead,MINJARY,NSW,New South Wales,2720,Australia,Australia,1953-01-23
+9915,Female,Ebony Buxton,SEPPINGS,WA,Western Australia,6330,Australia,Australia,1991-11-10
+10039,Female,Brianna Hann,NIKENBAH,QLD,Queensland,4655,Australia,Australia,1947-10-22
+10189,Female,Alexis Birchell,FOREST REEFS,NSW,New South Wales,2798,Australia,Australia,1962-04-07
+10276,Male,Angus Bardolph,BATEAU BAY,NSW,New South Wales,2261,Australia,Australia,1972-11-01
+10299,Male,Anthony Macvitie,BEELBANGERA,NSW,New South Wales,2680,Australia,Australia,1937-05-27
+10332,Male,James Burnage,Palmyra,WA,Western Australia,6157,Australia,Australia,1937-03-26
+10393,Male,Nicholas Moncrieff,ROSENTHAL HEIGHTS,QLD,Queensland,4370,Australia,Australia,1981-11-29
+10395,Male,Cameron Dillon,STRATHERNE,WA,Western Australia,6309,Australia,Australia,1996-02-25
+10481,Female,Piper Maudsley,CELLS RIVER,NSW,New South Wales,2324,Australia,Australia,1977-04-17
+10504,Male,Daniel Rusconi,SOUTH DATATINE,WA,Western Australia,6317,Australia,Australia,1980-10-22
+10717,Male,Harrison Ingram,MAYA,WA,Western Australia,6614,Australia,Australia,1981-06-16
+11035,Female,Makayla Meldrum,KINGS FOREST,NSW,New South Wales,2487,Australia,Australia,1939-12-08
+11090,Female,Scarlett Scollen,SILVERWATER,NSW,New South Wales,2128,Australia,Australia,1953-01-20
+11587,Male,Andrew Fenbury,York,WA,Western Australia,6302,Australia,Australia,1977-11-09
+11736,Female,Summer Brownrigg,YARRABILBA,QLD,Queensland,4207,Australia,Australia,1991-01-22
+12084,Male,Toby Chauvel,GALGA,SA,South Australia,5308,Australia,Australia,1958-07-20
+12160,Male,Jett Creal,Oakhurst,NSW,New South Wales,2761,Australia,Australia,1956-09-05
+12162,Female,Eva Lavarack,WHITTINGTON,VIC,Victoria,3219,Australia,Australia,1954-07-30
+12207,Male,Aiden Jull,OGMORE,QLD,Queensland,4706,Australia,Australia,1955-11-30
+12256,Female,Lilly Lynn,ROTHBURY,NSW,New South Wales,2320,Australia,Australia,1991-03-07
+12365,Female,Natalie Lyon,STEEPLE FLAT,NSW,New South Wales,2631,Australia,Australia,1958-04-06
+12385,Female,Lily Gribble,OVERLAND CORNER,SA,South Australia,5330,Australia,Australia,1981-06-10
+12392,Female,Laura Waterhouse,GREENHILL,SA,South Australia,5140,Australia,Australia,1957-03-08
+57246,Male,Toby Dillon,CITY WEST CAMPUS,SA,South Australia,5000,Australia,Australia,1987-03-10
+57294,Female,Makayla Bold,TRARALGON EAST,VIC,Victoria,3844,Australia,Australia,1980-05-15
+57307,Female,Eva Hickson,RAINBOW,VIC,Victoria,3424,Australia,Australia,1980-11-14
+57374,Male,Jack Coote,COLONGRA,NSW,New South Wales,2262,Australia,Australia,1938-01-19
+57491,Male,Ryan Custance,MILLBANK,QLD,Queensland,4670,Australia,Australia,1985-09-16
+57662,Male,Archer Tozer,COALSTOUN LAKES,QLD,Queensland,4621,Australia,Australia,1982-06-10
+57681,Male,Caleb Louat,ROCKWELL,WA,Western Australia,6532,Australia,Australia,1958-05-05
+57820,Male,Edward Howarde,DARGO,VIC,Victoria,3862,Australia,Australia,1951-05-05
+57938,Male,Alexander Courtice,LIPAROO,VIC,Victoria,3549,Australia,Australia,1979-10-09
+58066,Male,Andrew Forde,ASHMONT,NSW,New South Wales,2650,Australia,Australia,1942-10-23
+58105,Female,Mariam Bright,CAMBRAI,SA,South Australia,5353,Australia,Australia,1980-04-12
+58212,Female,Amy Goffage,OAKFORD,WA,Western Australia,6121,Australia,Australia,1965-01-04
+58710,Male,Jordan Foveaux,GOSNELLS,WA,Western Australia,6110,Australia,Australia,1949-11-21
+58919,Female,Kaitlyn Fenton,FLOREAT FORUM,WA,Western Australia,6014,Australia,Australia,1960-09-13
+59159,Female,Maya Pasley,CAPE HILLSBOROUGH,QLD,Queensland,4740,Australia,Australia,1947-07-29
+59304,Male,Patrick Collie,CARLINGFORD,NSW,New South Wales,2118,Australia,Australia,1953-10-01
+59422,Female,Amber Sykes,HILLGROVE,NSW,New South Wales,2350,Australia,Australia,1990-02-13
+59529,Female,Alice Blumenthal,FOREST GLEN,NSW,New South Wales,2157,Australia,Australia,1992-05-28
+59842,Male,Lucas McClure,BLETCHINGTON,NSW,New South Wales,2800,Australia,Australia,1939-01-19
+59961,Male,Harry Hambly,GALORE,NSW,New South Wales,2652,Australia,Australia,1948-02-03
+60009,Female,Natasha Gall,TOWNSVILLE CITY,QLD,Queensland,4810,Australia,Australia,1989-10-12
+60088,Female,Evie Brownbill,PAGES FLAT,SA,South Australia,5172,Australia,Australia,1982-06-02
+60150,Female,Jasmine Mackay,NORTHLAND CENTRE,VIC,Victoria,3072,Australia,Australia,1964-02-14
+60407,Male,Alexander Earp,POZIERES,QLD,Queensland,4352,Australia,Australia,1944-09-04
+60411,Female,Eliza Solly,HIGHBURY,WA,Western Australia,6313,Australia,Australia,1938-10-15
+60454,Male,Toby Normanby,LOWER LEWIS PONDS,NSW,New South Wales,2800,Australia,Australia,1953-05-05
+60475,Male,Joel Sharwood,CUDLEE CREEK,SA,South Australia,5232,Australia,Australia,1948-05-27
+60722,Male,Logan Dowie,KOOROOMOOL,QLD,Queensland,4854,Australia,Australia,1985-06-08
+60892,Male,Seth Soubeiran,MOOLORT,VIC,Victoria,3465,Australia,Australia,1964-01-24
+60995,Male,Matthew Caron,TUENA,NSW,New South Wales,2583,Australia,Australia,1955-09-17
+61546,Female,Alexis Heagney,COASTERS RETREAT,NSW,New South Wales,2108,Australia,Australia,1953-09-14
+61718,Female,Chloe Schlapp,ALLIGATOR CREEK,QLD,Queensland,4816,Australia,Australia,1956-06-01
+61773,Female,Gabrielle Kossak,CAROONA,NSW,New South Wales,2343,Australia,Australia,2001-04-22
+61776,Male,Mitchell Cockle,TALLOWWOOD RIDGE,NSW,New South Wales,2453,Australia,Australia,1954-07-06
+61825,Male,Kai Culley,ERSKINEVILLE,NSW,New South Wales,2043,Australia,Australia,1995-10-09
+61881,Female,Rose Budd,ALBERTON,VIC,Victoria,3971,Australia,Australia,1994-05-11
+61947,Female,Amber Tolmie,NORVAL,VIC,Victoria,3377,Australia,Australia,1996-12-15
+62017,Female,Grace Humphries,HASTINGS,WA,Western Australia,6308,Australia,Australia,1954-09-21
+62035,Male,John Duesbury,TIARO,QLD,Queensland,4650,Australia,Australia,1952-03-18
+62038,Male,Henry Birdwood,HINDMARSH,SA,South Australia,5007,Australia,Australia,1997-06-05
+62076,Male,Brock Edden,ORIELTON,TAS,Tasmania,7172,Australia,Australia,1945-12-03
+62125,Female,Ava Lowes,IVERAGH,QLD,Queensland,4680,Australia,Australia,1978-04-10
+62133,Male,Jonathan Fargher,GWABEGAR,NSW,New South Wales,2356,Australia,Australia,1996-04-27
+62163,Female,Amelia O'Neil,POINT LEO,VIC,Victoria,3916,Australia,Australia,1961-09-22
+62416,Female,Isabelle Whitworth,EIMEO,QLD,Queensland,4740,Australia,Australia,1943-02-23
+62473,Female,Mary Baskerville,PORT GERMEIN,SA,South Australia,5495,Australia,Australia,1966-09-03
+62537,Female,Lauren Nichols,WOOLOOMAN,QLD,Queensland,4310,Australia,Australia,1937-05-03
+137734,Female,Molly Macartney,ELLENBROOK EAST,WA,Western Australia,6069,Australia,Australia,1999-12-24
+137846,Male,Will Collee,WATTLEBANK,QLD,Queensland,4704,Australia,Australia,1955-08-22
+137865,Female,Lucinda Ruatoka,SEVERNLEA,QLD,Queensland,4352,Australia,Australia,1986-06-15
+137949,Male,Anthony Corin,NORONG,VIC,Victoria,3682,Australia,Australia,1965-06-07
+138130,Male,Jai Fauchery,KENTUCKY SOUTH,NSW,New South Wales,2354,Australia,Australia,1993-02-20
+138242,Male,Beau Rodius,WATTLE HILL,VIC,Victoria,3237,Australia,Australia,1961-06-22
+138332,Female,Natasha White-Haney,WAANYARRA,VIC,Victoria,3551,Australia,Australia,1972-11-30
+138464,Female,Caitlyn Salter,BONNIE DOON,VIC,Victoria,3720,Australia,Australia,1993-12-10
+138611,Male,Sebastian O'Malley,WATTLE HILL,VIC,Victoria,3237,Australia,Australia,1944-05-11
+138735,Female,Amelia Macquarie,NYRRABY,VIC,Victoria,3585,Australia,Australia,1957-09-24
+138767,Male,Hugo Cathcart,BUILYAN,QLD,Queensland,4680,Australia,Australia,1937-03-04
+139176,Male,Elijah Calder,LOWAN VALE,SA,South Australia,5268,Australia,Australia,1997-06-24
+139224,Female,Sofia Hardey,CANIA,QLD,Queensland,4630,Australia,Australia,1987-12-30
+139376,Male,Leo Cuni,WANDAL,QLD,Queensland,4700,Australia,Australia,1969-08-13
+139411,Female,Isabel McDonell,ANAMBAH,NSW,New South Wales,2320,Australia,Australia,1985-12-26
+139479,Female,Kiara Stuart,COBBANNAH,VIC,Victoria,3862,Australia,Australia,1982-04-22
+139742,Male,Logan Plunkett,CAMIRA CREEK,NSW,New South Wales,2469,Australia,Australia,1953-03-30
+139817,Female,Annabelle French,ALLENS RIVULET,TAS,Tasmania,7150,Australia,Australia,1980-07-12
+139856,Female,Alyssa Dovey,CAMIRA,NSW,New South Wales,2469,Australia,Australia,1944-10-28
+139891,Female,Alicia Champion,O'REILLY,QLD,Queensland,4211,Australia,Australia,1987-03-30
+140004,Male,Jonathan Foll,HILLVUE,NSW,New South Wales,2340,Australia,Australia,1937-05-04
+140208,Male,Will Tjalkabota,CRANLEY,QLD,Queensland,4350,Australia,Australia,1975-04-15
+140225,Female,Sofia Siebenhaar,TANBY,QLD,Queensland,4703,Australia,Australia,1987-05-05
+140239,Male,Harry Heymann,Moore,QLD,Queensland,4306,Australia,Australia,1985-03-29
+140389,Female,Lily Coyne,EAST DAMBORING,WA,Western Australia,6608,Australia,Australia,1944-04-04
+140457,Female,Taylah McCrea,TARONG,QLD,Queensland,4615,Australia,Australia,1974-11-14
+140829,Male,Ashton Gordon,STURT,QLD,Queensland,4829,Australia,Australia,1958-02-25
+140872,Female,Georgia Waterhouse,LANE COVE,NSW,New South Wales,2066,Australia,Australia,1990-08-22
+140911,Male,Xavier Hughes,DUVAL,NSW,New South Wales,2350,Australia,Australia,1950-10-19
+140956,Female,Abbey Smythe,BUMBERRAH,VIC,Victoria,3902,Australia,Australia,1958-02-21
+140972,Male,Flynn Kossak,GRASSTREE BEACH,QLD,Queensland,4740,Australia,Australia,1956-07-16
+141179,Female,Paige Dallachy,JUNG,VIC,Victoria,3401,Australia,Australia,1968-10-05
+141238,Male,Joseph Fosbrook,WANDONG,VIC,Victoria,3758,Australia,Australia,1949-10-08
+141338,Male,Benjamin Poupinel,NUNDLE,NSW,New South Wales,2340,Australia,Australia,1937-11-14
+141371,Male,Blake De Maistre,SOUTHEND,SA,South Australia,5280,Australia,Australia,1991-06-08
+141431,Male,Cameron Edward,GNARWARRE,VIC,Victoria,3221,Australia,Australia,1993-09-10
+141645,Female,Poppy Ruse,MIRROOL,NSW,New South Wales,2665,Australia,Australia,1981-05-27
+141696,Male,Jordan Brookman,HOWRAH,TAS,Tasmania,7018,Australia,Australia,1959-04-12
+141859,Male,Angus Carter,MEERUP,WA,Western Australia,6262,Australia,Australia,1991-04-18
+142086,Female,Laura Lazzarini,Brunswick,WA,Western Australia,6224,Australia,Australia,1955-12-05
+142282,Female,Lucy Wanganeen,MUNGAY CREEK,NSW,New South Wales,2440,Australia,Australia,1968-01-04
+142288,Male,Dylan Freehill,Burbank,QLD,Queensland,4156,Australia,Australia,1979-08-11
+142335,Male,Cameron Dadswell,NEEREMAN,VIC,Victoria,3463,Australia,Australia,1965-06-27
+142425,Male,Sam Tweddle,LITTLE PELICAN,NSW,New South Wales,2281,Australia,Australia,1975-09-10
+142837,Female,Eva Betche,Belmont,WA,Western Australia,6104,Australia,Australia,1987-03-16
+143033,Male,Mitchell Woodriff,DONCASTER EAST,VIC,Victoria,3109,Australia,Australia,2001-11-30
+143135,Male,Dominic Watts,COLLAROY,QLD,Queensland,4707,Australia,Australia,1943-03-12
+143206,Male,Dominic Lindsay,WINSTON,QLD,Queensland,4825,Australia,Australia,1980-03-07
+199409,Female,Zara Wentworth-Shields,CARPENDALE,QLD,Queensland,4344,Australia,Australia,1992-04-08
+199538,Female,Summer Jefferies,LANSELL PLAZA,VIC,Victoria,3555,Australia,Australia,1951-06-15
+199559,Male,Jordan Proctor,KATHERINE,NT,Northern Territory,850,Australia,Australia,1947-08-23
+199641,Male,Lachlan Dennis,DALBEG,QLD,Queensland,4807,Australia,Australia,1953-12-10
+200079,Male,Alex Barlow,New Westminster,BC,British Columbia,V3L 5H1,Canada,North America,1986-07-09
+200208,Female,Sophie Fagan,Montreal,QC,Quebec,H4A 1H3,Canada,North America,1962-09-17
+200370,Male,Paul Maurice,Montreal,QC,Quebec,H3C 5K4,Canada,North America,1987-10-07
+200631,Female,Velma Meier,Montreal,QC,Quebec,H3C 5K4,Canada,North America,1968-03-14
+200688,Male,John Waddle,Port Hardy,BC,British Columbia,V0N 2P0,Canada,North America,1969-10-28
+200727,Male,Joe Demoss,Trois Rivieres,QC,Quebec,G9A 1V7,Canada,North America,1956-08-27
+200751,Female,Denise Nazario,Montreal,QC,Quebec,H3C 5K4,Canada,North America,1946-07-16
+200765,Male,Dennis Hull,Cluculz Lake,BC,British Columbia,V2N 4T6,Canada,North America,1998-02-02
+200786,Male,William McDonald,Fort Nelson,BC,British Columbia,V0C 1C0,Canada,North America,1970-08-08
+200860,Female,Debra Reyes,Mission,BC,British Columbia,V2V 1J7,Canada,North America,1980-09-01
+200903,Female,Pamella Gordon,Toronto,ON,Ontario,M3B 2W6,Canada,North America,1987-01-24
+200992,Male,Perry Maclennan,Victoria,BC,British Columbia,V8W 1L6,Canada,North America,1974-03-29
+201086,Male,Gerald Tran,Rosseau,ON,Ontario,P0C 1J0,Canada,North America,1998-03-11
+201299,Male,Jesus Boyd,Montreal,QC,Quebec,H2K 4J5,Canada,North America,1957-12-01
+201664,Male,Nathan Hall,Cochrane,AB,Alberta,T0L 0W0,Canada,North America,1949-11-22
+201709,Female,Cora Nelson,Montreal,QC,Quebec,H4J 1M9,Canada,North America,1963-08-13
+201728,Female,Janet Bowling,Toronto,ON,Ontario,M5H 1P6,Canada,North America,1962-12-02
+201832,Male,Robert Knoll,Fort Mcmurray,AB,Alberta,T9H 3J9,Canada,North America,1990-10-05
+201865,Female,Cindy Souza,Toronto,ON,Ontario,M4P 1A6,Canada,North America,1954-05-16
+202220,Female,Helen Martin,Calgary,AB,Alberta,T2V 2W2,Canada,North America,1942-06-20
+202290,Female,Mildred Davis,Thornhill,ON,Ontario,L4J 1W2,Canada,North America,2000-10-13
+202552,Female,Georgina McInnis,Watford,ON,Ontario,N0M 2S0,Canada,North America,1939-02-21
+202578,Female,Wendy Wilson,Brownvale,AB,Alberta,T0H 0L0,Canada,North America,2001-11-03
+202626,Male,Chet Hurley,Toronto,ON,Ontario,M5J 2R8,Canada,North America,1957-02-12
+202929,Male,Christopher Alfaro,Vancouver,BC,British Columbia,V6R 4C5,Canada,North America,1991-07-20
+203076,Male,Mark Burton,Hamilton,ON,Ontario,L8K 1A4,Canada,North America,1937-11-20
+203191,Male,Derek Ditto,Chapleau,ON,Ontario,P0M 1K0,Canada,North America,1999-12-14
+203708,Female,Maria Lindberg,Owen Sound,ON,Ontario,N4K 2N7,Canada,North America,1966-08-29
+203836,Female,Lucille Jackson,Legal,AB,Alberta,T0G 1L0,Canada,North America,1943-01-27
+203863,Male,Lance Morales,Edmonton,AB,Alberta,T5J 0K7,Canada,North America,1949-10-06
+203916,Male,Robert Dearing,Vancouver,BC,British Columbia,V6B 1E1,Canada,North America,1957-01-09
+203957,Female,Katherine Brown,Musquodoboit Harbour,NS,Nova Scotia,B0J 2L0,Canada,North America,1942-11-16
+204030,Male,Billy Caldwell,Buchanan,SK,Saskatchewan,S4P 3Y2,Canada,North America,1994-09-23
+204136,Female,Helen Williams,Burnaby,BC,British Columbia,V5A 2Z6,Canada,North America,1995-07-08
+204149,Male,Jonathon Moore,Paris,ON,Ontario,N3L 1K7,Canada,North America,1943-05-20
+204378,Male,William Johnson,Vancouver,BC,British Columbia,V6C 1B4,Canada,North America,1990-12-15
+204419,Male,Ted Camden,Owen Sound,ON,Ontario,N4K 2N7,Canada,North America,1995-01-08
+204488,Female,Diana Scheid,Toronto,ON,Ontario,M1M 1V1,Canada,North America,1950-09-13
+204502,Male,Bert Smith,St Camille De Bellechasse,QC,Quebec,G0R 2S0,Canada,North America,1945-01-13
+204556,Female,Darlene Watson,Toronto,ON,Ontario,M9C 3J5,Canada,North America,1984-03-19
+204792,Male,Jamie Barbera,Chatham,ON,Ontario,N7M 2G9,Canada,North America,1989-11-07
+205035,Male,Thomas Gonzalez,Cranbrook,BC,British Columbia,V1C 2R9,Canada,North America,1965-10-28
+205077,Female,Kathryn Mills,Vancouver,BC,British Columbia,V5R 2T4,Canada,North America,1974-12-04
+205194,Male,Angelo Allison,Kitchener,ON,Ontario,N2H 5A5,Canada,North America,1972-05-06
+254265,Male,Greg Koch,Yellowknife,NT,Northwest Territories,X1A 2R3,Canada,North America,1973-04-27
+254331,Male,Jerrell Stepp,Hamilton,ON,Ontario,L8N 3X3,Canada,North America,1980-07-27
+254402,Female,Donna Jones,Radway,AB,Alberta,T0A 2V0,Canada,North America,1951-12-03
+254407,Male,Herman Wiley,Quebec,QC,Quebec,G1V 3V5,Canada,North America,1982-05-13
+254540,Female,Hazel Skiles,Peterborough,ON,Ontario,K9H 2L1,Canada,North America,1988-06-10
+254779,Female,Susan Brewster,Guelph,ON,Ontario,N1H 2W8,Canada,North America,2000-08-14
+254795,Female,Virginia Lawson,London,ON,Ontario,N0N 0N0,Canada,North America,1993-09-13
+254816,Female,Ida Martin,Sherbrooke,QC,Quebec,J1H 1R4,Canada,North America,1978-02-20
+254825,Female,Barbara Singleton,Edmonton,AB,Alberta,T5J 2R4,Canada,North America,1981-10-07
+254861,Male,Richard Gonzales,Montreal,QC,Quebec,H3B 4W8,Canada,North America,1989-06-11
+255089,Male,John Smith,Ottawa,ON,Ontario,K1H 7Z1,Canada,North America,1956-08-03
+255161,Female,Julia Stripling,Ajax,ON,Ontario,L1S 6L6,Canada,North America,1990-12-11
+255267,Female,Nenita Thibodeau,St Catharines,ON,Ontario,L2N 1S8,Canada,North America,1956-03-16
+255284,Male,Jose Baker,Palgrave,ON,Ontario,L0N 1P0,Canada,North America,1994-05-28
+255295,Female,Meggan Zoeller,Holdfast,SK,Saskatchewan,S4P 3Y2,Canada,North America,1963-11-13
+255312,Male,Gerald Comer,Vancouver,BC,British Columbia,V5T 1Z7,Canada,North America,1939-10-23
+255406,Female,Mary McKee,Calgary,AB,Alberta,T2P 0W4,Canada,North America,1936-06-14
+255479,Male,Joel Martinez,Ile Perrot,QC,Quebec,J0P 1K0,Canada,North America,1950-04-09
+255536,Male,William Eley,Victoria,BC,British Columbia,V8W 2H9,Canada,North America,1968-01-13
+255723,Male,Manuel Hohn,Toronto,ON,Ontario,M5H 1P6,Canada,North America,1940-05-29
+255882,Male,David Gooden,Ste Eulalie,QC,Quebec,G0Z 1E0,Canada,North America,1987-01-09
+256114,Female,Rose Willis,Ottawa,ON,Ontario,K1Z 7B5,Canada,North America,1984-09-04
+256411,Male,Matt Lussier,Vancouver,BC,British Columbia,V5R 2T4,Canada,North America,1992-06-27
+256475,Male,Johnny Sanders,West Vancouver,BC,British Columbia,V7V 1Y8,Canada,North America,1962-03-19
+256526,Male,James Rogers,Barrie,ON,Ontario,L4M 3B1,Canada,North America,1936-06-10
+256531,Male,Carson Jones,Quebec,QC,Quebec,G1R 1B8,Canada,North America,1998-06-18
+256789,Male,Kenneth Hutchings,Ottawa,ON,Ontario,K1Z 7B5,Canada,North America,1960-07-26
+256828,Male,Thomas Hires,Provost,AB,Alberta,T0B 3S0,Canada,North America,1960-11-25
+256837,Male,Emmett Irving,Timmins,ON,Ontario,P4N 1C3,Canada,North America,1964-07-25
+257031,Female,Raquel Coughlan,SACKVILLE,NS,Nova Scotia,B4E 2R3,Canada,North America,1998-05-23
+257225,Male,Samuel Oubre,Oakville,ON,Ontario,L6J 4Z3,Canada,North America,1936-03-13
+257471,Male,Simon Moten,Thunder Bay,ON,Ontario,P7E 1J5,Canada,North America,1976-01-25
+257642,Female,Sandra Fernandez,Toronto,ON,Ontario,M5T 1T4,Canada,North America,1955-03-07
+258135,Female,Holly Cooper,Contrecoeur,QC,Quebec,J0L 1C0,Canada,North America,2001-05-02
+258236,Male,Jon Kelsey,Toronto,ON,Ontario,M1L 3K7,Canada,North America,1973-07-28
+258316,Male,Sean Borunda,Vernon,BC,British Columbia,V1T 6N1,Canada,North America,1965-04-30
+258429,Female,Julia Woods,Montreal,QC,Quebec,H3B 4W8,Canada,North America,1944-04-26
+258702,Male,Joshua Anderson,Montreal,QC,Quebec,H3B 2M3,Canada,North America,1978-05-02
+259102,Female,Traci McIntyre,Waterdown,ON,Ontario,L8G 3R4,Canada,North America,1956-02-22
+259221,Female,Josephine Hudson,Regina,SK,Saskatchewan,S4S 2R3,Canada,North America,1983-09-02
+259407,Male,Aaron Johnson,Toronto,ON,Ontario,M4W 1J7,Canada,North America,1971-03-06
+259411,Female,Mary Eddins,Listowel,ON,Ontario,N4W 2H8,Canada,North America,1984-10-26
+259457,Male,Nicholas Gordon,Victoria,BC,British Columbia,V8W 2H9,Canada,North America,1982-07-09
+259615,Male,James Gunter,Terrace,BC,British Columbia,V8G 1S2,Canada,North America,1987-12-08
+259651,Male,Jae Conwell,Liverpool,NS,Nova Scotia,B0T 1K0,Canada,North America,1999-10-05
+259681,Female,Jane Dildy,Huntsville,ON,Ontario,P0A 1K0,Canada,North America,1939-05-29
+259842,Female,Jonell Beauford,Newmarket,ON,Ontario,L3Y 2A3,Canada,North America,1977-07-21
